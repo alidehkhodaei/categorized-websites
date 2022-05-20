@@ -40,6 +40,8 @@
   <li> <a href="https://refactoring.guru">Refactoring</a></li>
   <li> <a href="https://sourcemaking.com">Sourcemaking</a></li>
   <li> <a href="https://www.theodinproject.com">The odin project</a></li> 
+  <li> <a href="https://maktabkhooneh.org">Maktabkhooneh</a></li> 
+  <li> <a href="https://faradars.org">Faradars</a></li> 
 </ul>
 
 
