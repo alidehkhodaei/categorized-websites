@@ -48,7 +48,7 @@
   <li> <a href="https://www.afterhoursprogramming.com">After Hours Programming</a></li> 
   <li> <a href="https://upskillcourses.com">Upskill</a></li> 
   <li> <a href="https://codeasy.net">Codeeasy</a></li> 
-  <li> <a href="https://developer.mozilla.org">MDN WEB DOCS</a></li> 
+  <li> <a href="https://developer.mozilla.org">Mdn Web Docs</a></li> 
   <li> <a href="https://codegym.cc">Codegym</a></li>
   <li> <a href="https://developers.google.com">Google Developer</a></li> 
   <li> <a href="https://www.tutorialspoint.com">Tutorialspoint</a></li> 
