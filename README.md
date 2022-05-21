@@ -42,6 +42,19 @@
   <li> <a href="https://www.theodinproject.com">The odin project</a></li> 
   <li> <a href="https://maktabkhooneh.org">Maktabkhooneh</a></li> 
   <li> <a href="https://faradars.org">Faradars</a></li> 
+  <li> <a href="https://www.sitepoint.com">Sitepoint</a></li> 
+  <li> <a href="https://www.sololearn.com">Sololearn</a></li> 
+  <li> <a href="https://bento.io">Bento</a></li> 
+  <li> <a href="https://www.afterhoursprogramming.com">After Hours Programming</a></li> 
+  <li> <a href="https://upskillcourses.com">Upskill</a></li> 
+  <li> <a href="https://codeasy.net">Codeeasy</a></li> 
+  <li> <a href="https://developer.mozilla.org">MDN WEB DOCS</a></li> 
+  <li> <a href="https://codegym.cc">Codegym</a></li>
+  <li> <a href="https://developers.google.com">Google Developer</a></li> 
+  <li> <a href="https://www.tutorialspoint.com">Tutorialspoint</a></li> 
+  <li> <a href="https://codehs.com">Codehs</a></li> 
+  <li> <a href="https://code4startup.com">Code4startup</a></li> 
+  <li> <a href="https://www.programiz.com">Programiz</a></li> 
 </ul>
 
 
@@ -56,6 +69,7 @@
   <li> <a href="https://quera.org">Quera</a></li>
   <li> <a href="https://www.topcoder.com">Topcoder</a></li>
   <li> <a href="https://www.spoj.com">Spoj</a></li>
+  <li> <a href="https://www.codeabbey.com">Codeabbey</a></li>
 </ul>
 
 
