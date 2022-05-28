@@ -56,6 +56,9 @@
   <li> <a href="https://code4startup.com">Code4startup</a></li> 
   <li> <a href="https://www.programiz.com">Programiz</a></li> 
   <li> <a href="https://refactoring.com/catalog">Refactoring</a></li> 
+  <li> <a href="https://realpython.com">Real Python</a></li> 
+  
+  
 </ul>
 
 
