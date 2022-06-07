@@ -58,6 +58,7 @@
   <li> <a href="https://refactoring.com/catalog">Refactoring</a></li> 
   <li> <a href="https://realpython.com">Real Python</a></li> 
   <li> <a href="https://www.journaldev.com">JournalDev</a></li> 
+  <li> <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">Data Structure Visualizations</a></li> 
   
 </ul>
 
