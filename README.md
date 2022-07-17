@@ -62,6 +62,7 @@
   <li> <a href="https://gobyexample.com">Learn Go by example</a></li> 
   <li> <a href="https://play.kotlinlang.org/byExample">Learn Kotlin by example</a></li> 
   <li> <a href="https://www.learnbyexample.org/python">Learn Python by example</a></li> 
+  <li> <a href="http://www.javabyexamples.com">Learn Java by example</a></li> 
 
 </ul>
 
