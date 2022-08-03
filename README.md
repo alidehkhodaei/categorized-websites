@@ -66,7 +66,8 @@
   <li> <a href="https://junit.org/junit5/docs/current/user-guide">Junit</a></li> 
   <li> <a href="https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html">Mockito</a></li> 
   <li> <a href="https://cppbyexample.com">Learn c++ by example</a></li> 
-  
+  <li> <a href="https://www.patterns.dev">Patterns</a></li> 
+
 </ul>
 
 
