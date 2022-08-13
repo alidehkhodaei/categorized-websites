@@ -67,7 +67,10 @@
   <li> <a href="https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html">Mockito</a></li> 
   <li> <a href="https://cppbyexample.com">Learn c++ by example</a></li> 
   <li> <a href="https://www.patterns.dev">Patterns</a></li> 
-
+  <li> <a href="https://www.tuthub.io">tuthub.io</a></li> 
+  <li> <a href="https://deviq.com">deviq.com</a></li> 
+  <li> <a href="https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html"</a>Java Programming Tutorial (OOP Exercises)</li> 
+  
 </ul>
 
 
