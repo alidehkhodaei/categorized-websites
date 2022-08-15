@@ -70,6 +70,7 @@
   <li> <a href="https://www.tuthub.io">tuthub.io</a></li> 
   <li> <a href="https://deviq.com">deviq.com</a></li> 
   <li> <a href="https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html"</a>Java Programming Tutorial (OOP Exercises)</li> 
+  <li> <a href="https://cheatography.com"</a>Cheatography</li> 
   
 </ul>
 
