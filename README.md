@@ -88,7 +88,7 @@
   <li> <a href="https://www.spoj.com">Spoj</a></li>
   <li> <a href="https://www.codeabbey.com">Codeabbey</a></li>
   <li> <a href="https://codescracker.com">CodesCracker Online Quiz Test</a></li>
-
+  <li> <a href="https://www.sql-practice.com">Sql Practice</a></li>
 </ul>
 
 
