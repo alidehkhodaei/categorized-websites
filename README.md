@@ -72,7 +72,7 @@
   <li> <a href="https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html"</a>Java Programming Tutorial (OOP Exercises)</li> 
   <li> <a href="https://cheatography.com"</a>Cheatography</li> 
   <li> <a href="https://roadmap.sh"</a>roadmap.sh</li> 
- 
+  <li> <a href="https://www.daneshjooyar.com"</a>Daneshjooyar.com</li> 
 </ul>
 
 
