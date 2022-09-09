@@ -74,7 +74,8 @@
   <li> <a href="https://roadmap.sh"</a>roadmap.sh</li> 
   <li> <a href="https://www.daneshjooyar.com"</a>Daneshjooyar.com</li> 
   <li> <a href="https://dart.dev/guides"</a>Dart documentation</li> 
- 
+  <li> <a href="https://www.simplilearn.com"</a>Simpli learn</li> 
+
 </ul>
 
 
