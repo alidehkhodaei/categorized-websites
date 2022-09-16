@@ -95,6 +95,8 @@
   <li> <a href="https://www.sql-practice.com">Sql Practice</a></li>
   <li> <a href="https://www.beecrowd.com.br">Beecrowd</a></li>
   <li> <a href="https://www.hackerearth.com/practice">Hackerearth</a></li>
+  <li> <a href="https://www.algoexpert.io">Algoexpert</a></li>
+
 </ul>
 
 
