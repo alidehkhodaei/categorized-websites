@@ -75,6 +75,7 @@
   <li> <a href="https://www.daneshjooyar.com"</a>Daneshjooyar.com</li> 
   <li> <a href="https://dart.dev/guides"</a>Dart documentation</li> 
   <li> <a href="https://www.simplilearn.com"</a>Simpli learn</li> 
+  <li> <a href="https://visualgo.net"</a>Visualgo</li> 
 
 </ul>
 
