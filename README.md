@@ -77,7 +77,7 @@
   <li> <a href="https://www.simplilearn.com"</a>Simpli learn</li> 
   <li> <a href="https://visualgo.net"</a>Visualgo</li> 
  <li> <a href="https://vueschool.io"</a>Vueschool</li> 
-
+ <li> <a href="https://www.shecodes.io"</a>Shecodes</li> 
 </ul>
 
 
