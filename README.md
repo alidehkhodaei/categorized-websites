@@ -84,6 +84,7 @@
   <li> <a href="https://devhints.io"</a>Devhints</li> 
   <li> <a href="https://www.typescriptlang.org/docs"</a>Typescript Docs</li> 
   <li> <a href="https://www.tutorialsteacher.com"</a>tutorialsteacher</li> 
+  <li> <a href="https://javascript.info"</a>javascript.info</li> 
 
 </ul>
 
