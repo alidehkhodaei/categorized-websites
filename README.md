@@ -85,7 +85,8 @@
   <li> <a href="https://www.typescriptlang.org/docs"</a>Typescript Docs</li> 
   <li> <a href="https://www.tutorialsteacher.com"</a>tutorialsteacher</li> 
   <li> <a href="https://javascript.info"</a>javascript.info</li> 
-
+  <li> <a href="https://mbeaudru.github.io/modern-js-cheatsheet"</a>Modern js cheatsheet</li> 
+   
 </ul>
 
 
