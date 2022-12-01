@@ -89,7 +89,9 @@
   <li> <a href="https://cheatography.com"</a>Cheatography</li> 
   <li> <a href="https://lecoupa.github.io/awesome-cheatsheets"</a>Awesome Cheatsheets</li> 
   <li> <a href="https://alison.com"</a>Alison</li> 
-  <li> <a href="https://www.mygreatlearning.com"</a>My great learning</li> 
+  <li> <a href="https://www.mygreatlearning.com"</a>My great learning</li>
+  <li> <a href="https://www.simplilearn.com"</a>Simplilearn</li>
+ 
 </ul>
 
 
