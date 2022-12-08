@@ -84,7 +84,7 @@
 |   68  |        www.alison.com              |
 |   69  |        www.mygreatlearning.com              |
 |   70  |        www.goalkicker.com              |
-|   71  |        www.learn.saylor.org          |
+|   71  |        https://learn.saylor.org        |
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
