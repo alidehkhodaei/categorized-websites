@@ -79,12 +79,10 @@
 |   63  |        www.devhints.io              |
 |   64  |        www.tutorialsteacher.com              |
 |   65  |        www.javascript.info              |
-|   66  |        www.mbeaudru.github.io/modern-js-cheatsheet              |
-|   67  |        www.lecoupa.github.io/awesome-cheatsheets              |
-|   68  |        www.alison.com              |
-|   69  |        www.mygreatlearning.com              |
-|   70  |        www.goalkicker.com              |
-|   71  |        https://learn.saylor.org        |
+|   66  |        www.alison.com              |
+|   67  |        www.mygreatlearning.com              |
+|   68  |        www.goalkicker.com              |
+|   69  |        https://learn.saylor.org        |
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
