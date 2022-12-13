@@ -135,9 +135,8 @@
 
 | No          | Link                       |
 |   --------  | -------------------------  |
-|   1  |        <a href='https://app.haikei.app'> Haikei  </a>     |
-|   2  |        <a href='https://dribbble.com'> Dribbble  </a>     |
-|   3  |        <a href='https://pexels.com'> Pexels  </a>     |
+|   1  |        <a href='https://dribbble.com'> Dribbble  </a>     |
+|   2  |        <a href='https://pexels.com'> Pexels  </a>     |
 
 
 <h4 id="Others">Others</h4>
