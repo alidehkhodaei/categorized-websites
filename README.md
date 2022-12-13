@@ -14,134 +14,135 @@
 
 | No          | Link                       |
 |   --------  | -------------------------  |
-|   1  |        www.Coursera.org              |
-|   2  |        www.Udemy.com              |
-|   3  |        www.Udacity.com              |
-|   4  |        www.Edx.org              |
-|   5  |        www.linkedin.com/learning              |
-|   6  |        www.codecademy.com              |
-|   7  |        www.geeksforgeeks.org              |
-|   8  |        www.Freecodecamp.com              |
-|   9  |        www.Futurelearn.com              |
-|   10  |        www.pluralsight.com              |
-|   11  |        www.khanacademy.org              |
-|   12  |        www.javatpoint.com              |
-|   13  |        www.w3schools.com              |
-|   14  |        www.Openclassroom.com              |
-|   15  |        www.skillcrush.com              |
-|   16  |        www.exercism.org              |
-|   17  |        www.scrimba.com              |
-|   18  |        www.tutsplus.com              |
-|   19  |        www.teamtreehouse.com              |
-|   20  |        www.skillshare.com              |
-|   21  |        www.shawacademy.com              |
-|   22  |        www.sitepoint.com              |
-|   23  |        www.datacamp.com              |
-|   24  |        www.hackr.io              |
-|   25  |        www.theodinproject.com              |
-|   26  |        www.generalassemb.ly              |
-|   27  |        www.learnjavascript.online              |
-|   28  |        www.refactoring.guru              |
-|   29  |        www.sourcemaking.com              |
-|   30  |        www.theodinproject.com              |
-|   31  |        www.maktabkhooneh.org              |
-|   32  |        www.faradars.org              |
-|   33  |        www.sitepoint.com              |
-|   34  |        www.sololearn.com              |
-|   35  |        www.bento.io              |
-|   36  |        www.afterhoursprogramming.com              |
-|   37  |        www.upskillcourses.com              |
-|   38  |        www.codeasy.net              |
-|   39  |        www.developer.mozilla.org              |
-|   40  |        www.codegym.cc              |
-|   41  |        www.tutorialspoint.com              |
-|   42  |        www.codehs.com              |
-|   43  |        www.code4startup.com              |
-|   44  |        www.programiz.com              |
-|   45  |        www.refactoring.com/catalog              |
-|   46  |        www.realpython.com              |
-|   47  |        www.journaldev.com              |
-|   48  |        www.gobyexample.com              |
-|   49  |        www.play.kotlinlang.org/byExample              |
-|   50  |        www.learnbyexample.org/python              |
-|   51  |        www.javabyexamples.com              |
-|   52  |        www.cppbyexample.com              |
-|   53  |        www.patterns.dev            |
-|   54  |        www.deviq.com              |
-|   55  |        www.cheatography.com              |
-|   56  |        www.daneshjooyar.com              |
-|   57  |        www.simplilearn.com              |
-|   58  |        www.visualgo.net              |
-|   59  |        www.vueschool.io              |
-|   60  |        www.shecodes.io              |
-|   61  |        www.vuemastery.com              |
-|   62  |        www.codewithrandom.com              |
-|   63  |        www.devhints.io              |
-|   64  |        www.tutorialsteacher.com              |
-|   65  |        www.javascript.info              |
-|   66  |        www.alison.com              |
-|   67  |        www.mygreatlearning.com              |
-|   68  |        www.goalkicker.com              |
-|   69  |        https://learn.saylor.org        |
-|   70  |        www.netacad.com     |
+|   1  |        <a href='https://Coursera.org'> Coursera  </a>     |
+|   2  |        <a href='https://Udemy.com'> Udemy  </a>     |
+|   3  |        <a href='https://Udacity.com'> Udacity  </a>     |
+|   4  |        <a href='https://Edx.org'> Edx  </a>     |
+|   5  |        <a href='https://linkedin.com/learning'> Linkedin  </a>     |
+|   6  |        <a href='https://codecademy.com'> Codecademy  </a>     |
+|   7  |        <a href='https://geeksforgeeks.org'> Geeksforgeeks  </a>     |
+|   8  |        <a href='https://Freecodecamp.com'> Freecodecamp  </a>     |
+|   9  |        <a href='https://Futurelearn.com'> Futurelearn  </a>     |
+|   10  |        <a href='https://pluralsight.com'> Pluralsight  </a>     |
+|   11  |        <a href='https://khanacademy.org'> Khanacademy  </a>     |
+|   12  |        <a href='https://javatpoint.com'> Javatpoint  </a>     |
+|   13  |        <a href='https://w3schools.com'> W3schools  </a>     |
+|   14  |        <a href='https://Openclassroom.com'> Openclassroom  </a>     |
+|   15  |        <a href='https://skillcrush.com'> Skillcrush  </a>     |
+|   16  |        <a href='https://exercism.org'> Exercism  </a>     |
+|   17  |        <a href='https://scrimba.com'> Scrimba  </a>     |
+|   18  |        <a href='https://tutsplus.com'> Tutsplus  </a>     |
+|   19  |        <a href='https://teamtreehouse.com'> Teamtreehouse  </a>     |
+|   20  |        <a href='https://skillshare.com'> Skillshare  </a>     |
+|   21  |        <a href='https://shawacademy.com'> Shawacademy  </a>     |
+|   22  |        <a href='https://sitepoint.com'> Sitepoint  </a>     |
+|   23  |        <a href='https://datacamp.com'> Datacamp  </a>     |
+|   24  |        <a href='https://hackr.io'> Hackr  </a>     |
+|   25  |        <a href='https://theodinproject.com'> Theodinproject  </a>     |
+|   26  |        <a href='https://generalassemb.ly'> Generalassemb  </a>     |
+|   27  |        <a href='https://learnjavascript.online'> Learnjavascript  </a>     |
+|   28  |        <a href='https://refactoring.guru'> Refactoring  </a>     |
+|   29  |        <a href='https://sourcemaking.com'> Sourcemaking  </a>     |
+|   30  |        <a href='https://theodinproject.com'> Theodinproject  </a>     |
+|   31  |        <a href='https://maktabkhooneh.org'> Maktabkhooneh  </a>     |
+|   32  |        <a href='https://faradars.org'> Faradars  </a>     |
+|   33  |        <a href='https://sitepoint.com'> Sitepoint  </a>     |
+|   34  |        <a href='https://sololearn.com'> Sololearn  </a>     |
+|   35  |        <a href='https://bento.io'> Bento  </a>     |
+|   36  |        <a href='https://afterhoursprogramming.com'> Afterhoursprogramming  </a>     |
+|   37  |        <a href='https://upskillcourses.com'> Upskillcourses  </a>     |
+|   38  |        <a href='https://codeasy.net'> Codeasy  </a>     |
+|   39  |        <a href='https://developer.mozilla.org'> Developer.mozilla  </a>     |
+|   40  |        <a href='https://codegym.cc'> Codegym  </a>     |
+|   41  |        <a href='https://tutorialspoint.com'> Tutorialspoint  </a>     |
+|   42  |        <a href='https://codehs.com'> Codehs  </a>     |
+|   43  |        <a href='https://code4startup.com'> Code4startup  </a>     |
+|   44  |        <a href='https://programiz.com'> Programiz  </a>     |
+|   45  |        <a href='https://refactoring.com/catalog'> Refactoring  </a>     |
+|   46  |        <a href='https://realpython.com'> Realpython  </a>     |
+|   47  |        <a href='https://journaldev.com'> Journaldev  </a>     |
+|   48  |        <a href='https://gobyexample.com'> Gobyexample  </a>     |
+|   49  |        <a href='https://play.kotlinlang.org/byExample'> Kotlin by example  </a>     |
+|   50  |        <a href='https://learnbyexample.org/python'> Learnbyexample  </a>     |
+|   51  |        <a href='https://javabyexamples.com'> Javabyexamples  </a>     |
+|   52  |        <a href='https://cppbyexample.com'> Cppbyexample  </a>     |
+|   53  |        <a href='https://patterns.dev'> Patterns  </a>     |
+|   54  |        <a href='https://deviq.com'> Deviq  </a>     |
+|   55  |        <a href='https://cheatography.com'> Cheatography  </a>     |
+|   56  |        <a href='https://daneshjooyar.com'> Daneshjooyar  </a>     |
+|   57  |        <a href='https://simplilearn.com'> Simplilearn  </a>     |
+|   58  |        <a href='https://visualgo.net'> Visualgo  </a>     |
+|   59  |        <a href='https://vueschool.io'> Vueschool  </a>     |
+|   60  |        <a href='https://shecodes.io'> Shecodes  </a>     |
+|   61  |        <a href='https://vuemastery.com'> Vuemastery  </a>     |
+|   62  |        <a href='https://codewithrandom.com'> Codewithrandom  </a>     |
+|   63  |        <a href='https://devhints.io'> Devhints  </a>     |
+|   64  |        <a href='https://tutorialsteacher.com'> Tutorialsteacher  </a>     |
+|   65  |        <a href='https://javascript.info'> Javascript  </a>     |
+|   66  |        <a href='https://alison.com'> Alison  </a>     |
+|   67  |        <a href='https://mygreatlearning.com'> Mygreatlearning  </a>     |
+|   68  |        <a href='https://goalkicker.com'> Goalkicker  </a>     |
+|   69  |        <a href='https://learn.saylor.org'> Learn  </a>     |
+|   70  |        <a href='https://netacad.com'> Netacad  </a>     |
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
 | No          | Link                       |
 |   --------  | -------------------------  |
-|   1  |        www.edabit.com              |
-|   2  |        www.coderbyte.com              |
-|   3  |        www.leetcode.com              |
-|   4  |        www.codechef.com              |
-|   5  |        www.codewars.com              |
-|   6  |        www.quera.org              |
-|   7  |        www.topcoder.com              |
-|   8  |        www.spoj.com              |
-|   9  |        www.codeabbey.com              |
-|   10  |        www.codescracker.com              |
-|   11  |        www.sql-practice.com              |
-|   12  |        www.beecrowd.com.br              |
-|   13  |        www.hackerearth.com/practice              |
-|   14  |        www.algoexpert.io              |
-|   15  |       www.hackerrank.com       |
+|   1  |        <a href='https://edabit.com'> Edabit  </a>     |
+|   2  |        <a href='https://coderbyte.com'> Coderbyte  </a>     |
+|   3  |        <a href='https://leetcode.com'> Leetcode  </a>     |
+|   4  |        <a href='https://codechef.com'> Codechef  </a>     |
+|   5  |        <a href='https://codewars.com'> Codewars  </a>     |
+|   6  |        <a href='https://quera.org'> Quera  </a>     |
+|   7  |        <a href='https://topcoder.com'> Topcoder  </a>     |
+|   8  |        <a href='https://spoj.com'> Spoj  </a>     |
+|   9  |        <a href='https://codeabbey.com'> Codeabbey  </a>     |
+|   10  |        <a href='https://codescracker.com'> Codescracker  </a>     |
+|   11  |        <a href='https://sql-practice.com'> Sql-practice  </a>     |
+|   12  |        <a href='https://beecrowd.com.br'> Beecrowd  </a>     |
+|   13  |        <a href='https://hackerearth.com/practice'> Hackerearth  </a>     |
+|   14  |        <a href='https://algoexpert.io'> Algoexpert  </a>     |
+|   15  |        <a href='https://hackerrank.com'> Hackerrank  </a>     |
+
 
 <h4 id="ArticleReadingWebsitesId">Article Reading</h4>
 
 | No          | Link                       |
 |   --------  | -------------------------  |
-|   1  |        www.medium.com              |
-|   2  |        www.virgool.io              |
+|   1  |        <a href='https://medium.com'> Medium  </a>     |
+|   2  |        <a href='https://virgool.io'> Virgool  </a>     |
 
 
 <h4 id="JobSearchWebsitesId">Job Search</h4>
 
 | No          | Link                       |
 |   --------  | -------------------------  |
-|   1  |        www.irantalent.com              |
-|   2  |        www.e-estekhdam.com              |
-|   3  |        www.iranestekhdam.ir              |
-|   4  |        www.jobinja.ir              |
-|   5  |        www.karboom.io              |
-|   6  |        www.jobvision.ir              |
-|   7  |        www.hamikar.com              |
-|   8  |        www.karbank.ir              |
-|   9  |        www.estekhdam.in              |
-|   10  |       www.karlib.com              |
-|   11  |       www.ponisha.ir              |
+|   1  |        <a href='https://irantalent.com'> Irantalent  </a>     |
+|   2  |        <a href='https://e-estekhdam.com'> E-estekhdam  </a>     |
+|   3  |        <a href='https://iranestekhdam.ir'> Iranestekhdam  </a>     |
+|   4  |        <a href='https://jobinja.ir'> Jobinja  </a>     |
+|   5  |        <a href='https://karboom.io'> Karboom  </a>     |
+|   6  |        <a href='https://jobvision.ir'> Jobvision  </a>     |
+|   7  |        <a href='https://hamikar.com'> Hamikar  </a>     |
+|   8  |        <a href='https://karbank.ir'> Karbank  </a>     |
+|   9  |        <a href='https://estekhdam.in'> Estekhdam  </a>     |
+|   10  |        <a href='https://karlib.com'> Karlib  </a>     |
+|   11  |        <a href='https://ponisha.ir'> Ponisha  </a>     |
 
 <h4 id="Ui">Image, icons and ui</h4>
 
 | No          | Link                       |
 |   --------  | -------------------------  |
-|   1  |        www.app.haikei.app         |
-|   2  |        www.dribbble.com           |
-|   3  |        www.pexels.com              |
+|   1  |        <a href='https://app.haikei.app'> Haikei  </a>     |
+|   2  |        <a href='https://dribbble.com'> Dribbble  </a>     |
+|   3  |        <a href='https://pexels.com'> Pexels  </a>     |
 
 
 <h4 id="Others">Others</h4>
 
 | No          | Link                       |
 |   --------  | -------------------------  |
-|   1  |        www.tuthub.io              |
-|   2  |        www.roadmap.sh              |
+|   1  |        <a href='https://tuthub.io'> Tuthub  </a>     |
+|   2  |        <a href='https://roadmap.sh'> Roadmap  </a>     |
