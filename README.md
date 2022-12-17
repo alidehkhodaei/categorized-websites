@@ -18,14 +18,14 @@
 |   2  |        <a href='https://Udemy.com'> Udemy  </a>     |
 |   3  |        <a href='https://Udacity.com'> Udacity  </a>     |
 |   4  |        <a href='https://Edx.org'> Edx  </a>     |
-|   5  |        <a href='https://linkedin.com/learning'> Linkedin  </a>     |
+|   5  |        <a href='https://linkedin.com/learning'> Linkedin  Learrning</a>     |
 |   6  |        <a href='https://codecademy.com'> Codecademy  </a>     |
 |   7  |        <a href='https://geeksforgeeks.org'> Geeksforgeeks  </a>     |
 |   8  |        <a href='https://Freecodecamp.com'> Freecodecamp  </a>     |
 |   9  |        <a href='https://Futurelearn.com'> Futurelearn  </a>     |
 |   10  |        <a href='https://pluralsight.com'> Pluralsight  </a>     |
 |   11  |        <a href='https://khanacademy.org'> Khanacademy  </a>     |
-|   12  |        <a href='https://javatpoint.com'> Javatpoint  </a>     |
+|   12  |        <a href='https://javatpoint.com'> Javatpoint.com  </a>     |
 |   13  |        <a href='https://w3schools.com'> W3schools  </a>     |
 |   14  |        <a href='https://Openclassroom.com'> Openclassroom  </a>     |
 |   15  |        <a href='https://skillcrush.com'> Skillcrush  </a>     |
@@ -41,7 +41,7 @@
 |   25  |        <a href='https://theodinproject.com'> Theodinproject  </a>     |
 |   26  |        <a href='https://generalassemb.ly'> Generalassemb  </a>     |
 |   27  |        <a href='https://learnjavascript.online'> Learnjavascript  </a>     |
-|   28  |        <a href='https://refactoring.guru'> Refactoring  </a>     |
+|   28  |        <a href='https://refactoring.guru'> Refactoring.guru  </a>     |
 |   29  |        <a href='https://sourcemaking.com'> Sourcemaking  </a>     |
 |   30  |        <a href='https://theodinproject.com'> Theodinproject  </a>     |
 |   31  |        <a href='https://maktabkhooneh.org'> Maktabkhooneh  </a>     |
@@ -58,7 +58,7 @@
 |   42  |        <a href='https://codehs.com'> Codehs  </a>     |
 |   43  |        <a href='https://code4startup.com'> Code4startup  </a>     |
 |   44  |        <a href='https://programiz.com'> Programiz  </a>     |
-|   45  |        <a href='https://refactoring.com/catalog'> Refactoring  </a>     |
+|   45  |        <a href='https://refactoring.com/catalog'> Refactoring.com  </a>     |
 |   46  |        <a href='https://realpython.com'> Realpython  </a>     |
 |   47  |        <a href='https://journaldev.com'> Journaldev  </a>     |
 |   48  |        <a href='https://gobyexample.com'> Gobyexample  </a>     |
@@ -66,7 +66,7 @@
 |   50  |        <a href='https://learnbyexample.org/python'> Learnbyexample  </a>     |
 |   51  |        <a href='https://javabyexamples.com'> Javabyexamples  </a>     |
 |   52  |        <a href='https://cppbyexample.com'> Cppbyexample  </a>     |
-|   53  |        <a href='https://patterns.dev'> Patterns  </a>     |
+|   53  |        <a href='https://patterns.dev'> Patterns.dev  </a>     |
 |   54  |        <a href='https://deviq.com'> Deviq  </a>     |
 |   55  |        <a href='https://cheatography.com'> Cheatography  </a>     |
 |   56  |        <a href='https://daneshjooyar.com'> Daneshjooyar  </a>     |
@@ -78,12 +78,13 @@
 |   62  |        <a href='https://codewithrandom.com'> Codewithrandom  </a>     |
 |   63  |        <a href='https://devhints.io'> Devhints  </a>     |
 |   64  |        <a href='https://tutorialsteacher.com'> Tutorialsteacher  </a>     |
-|   65  |        <a href='https://javascript.info'> Javascript  </a>     |
+|   65  |        <a href='https://javascript.info'> Javascript.info  </a>     |
 |   66  |        <a href='https://alison.com'> Alison  </a>     |
 |   67  |        <a href='https://mygreatlearning.com'> Mygreatlearning  </a>     |
 |   68  |        <a href='https://goalkicker.com'> Goalkicker  </a>     |
-|   69  |        <a href='https://learn.saylor.org'> Learn  </a>     |
+|   69  |        <a href='https://learn.saylor.org'> Saylor  </a>     |
 |   70  |        <a href='https://netacad.com'> Netacad  </a>     |
+|   71  |        <a href='https://web.dev'>Web.dev </a>     |
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
