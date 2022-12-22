@@ -86,6 +86,8 @@
 |   70  |        <a href='https://netacad.com'> Netacad  </a>     |
 |   71  |        <a href='https://web.dev'>Web.dev </a>     |
 |   72  |        <a href='https://learn.shayhowe.com'>learn shayhowe (Learn to Code HTML & CSS)</a>     |
+|   73  |        <a href='https://www.tutorialrepublic.com'>  Tutorialrepublic  </a>     |
+|   74  |        <a href='https://www.learnjavaonline.org'>  Learnjavaonline  </a>     |
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
