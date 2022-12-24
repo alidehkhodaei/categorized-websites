@@ -147,6 +147,9 @@
 |   1  |        <a href='https://dribbble.com'> Dribbble  </a>     |
 |   2  |        <a href='https://pexels.com'> Pexels  </a>     |
 |   3  |        <a href='https://www.behance.net'> Behance  </a>     |
+|   4  |        <a href='https://icons8.com'> Icon8  </a>     |
+|   5  |        <a href='https://www.freepik.com'> Freepic  </a>     |
+
 
 
 <h4 id="Others">Others</h4>
