@@ -151,6 +151,12 @@
 |   5  |        <a href='https://www.freepik.com'> Freepic  </a>     |
 |   6  |        <a href='https://undraw.co/illustrations'> Undraw  </a>     |
 |   7  |        <a href='https://unsplash.com'> Unsplash  </a>     |
+|   8  |        <a href='https://www.designspiration.com'> Designspiration  </a>     |
+|   9  |        <a href='https://screenlane.com'> Screenlane  </a>     |
+|   10  |       <a href='https://uigarage.net'> Uigarage  </a>     |
+|   11  |       <a href='https://onepagelove.com'> Onepagelove  </a>     |
+|   12  |       <a href='https://siteinspire.com'> Siteinspire  </a>     |
+|   13  |       <a href='https://www.awwwards.com'> Awwwards  </a>     |
 
 
 <h4 id="Others">Others</h4>
