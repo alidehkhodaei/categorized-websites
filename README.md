@@ -157,6 +157,8 @@
 |   11  |       <a href='https://onepagelove.com'> Onepagelove  </a>     |
 |   12  |       <a href='https://siteinspire.com'> Siteinspire  </a>     |
 |   13  |       <a href='https://www.awwwards.com'> Awwwards  </a>     |
+|   14  |       <a href='https://craftwork.design'> Craftwork.design  </a>     |
+|   15  |       <a href='https://thenounproject.com'> Thenounproject  </a>     |
 
 
 <h4 id="Others">Others</h4>
