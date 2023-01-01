@@ -92,6 +92,9 @@
 |   76  |        <a href='https://www.educative.io'>  Educative </a>     |
 |   77  |        <a href='https://www.guru99.com'>  Guru99 </a>     |
 |   78  |        <a href='https://scrimba.com'>  Scrima  </a>     |
+|   79  |        <a href='https://java-design-patterns.com'>  Java-design-patterns  </a>     |
+
+
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
