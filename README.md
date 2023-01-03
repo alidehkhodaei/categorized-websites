@@ -175,3 +175,5 @@
 |   4  |        <a href='https://web.archive.org'> Web  archive</a>     |
 |   5  |        <a href='https://resumeworded.com/linkedin-review'> LinkedIn profile review</a>     |
 |   6  |        <a href='https://dev.to'> Dev.to</a>     |
+|   7  |        <a href='https://you.com'> You.com</a>     |
+
