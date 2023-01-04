@@ -117,6 +117,9 @@
 |   15  |        <a href='https://hackerrank.com'> Hackerrank  </a>     |
 |   16  |        <a href='https://www.interviewbit.com'> Interviewbit  </a>     |
 |   17  |        <a href='https://codility.com'> Codility  </a>     |
+|   18  |        <a href='https://www.frontendmentor.io'> Frontendmentor  </a>     |
+|   19  |        <a href='https://codepen.io'> Codepen  </a>     |
+|   20  |        <a href='https://www.codewell.cc'> codewell  </a>     |
 
 
 
