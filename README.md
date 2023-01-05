@@ -93,7 +93,7 @@
 |   77  |        <a href='https://www.guru99.com'>  Guru99 </a>     |
 |   78  |        <a href='https://scrimba.com'>  Scrima  </a>     |
 |   79  |        <a href='https://java-design-patterns.com'>  Java-design-patterns  </a>     |
-
+|   80  |        <a href='https://www.classcentral.com'>  Classcentral  </a>     |
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
@@ -179,4 +179,5 @@
 |   5  |        <a href='https://resumeworded.com/linkedin-review'> LinkedIn profile review</a>     |
 |   6  |        <a href='https://dev.to'> Dev.to</a>     |
 |   7  |        <a href='https://you.com'> You.com</a>     |
+|   8  |        <a href='https://www.useblackbox.io/search'> Blackbox</a>     |
 
