@@ -94,6 +94,7 @@
 |   78  |        <a href='https://scrimba.com'>  Scrima  </a>     |
 |   79  |        <a href='https://java-design-patterns.com'>  Java-design-patterns  </a>     |
 |   80  |        <a href='https://www.classcentral.com'>  Classcentral  </a>     |
+|   81  |        <a href='https://academicearth.org'>  Academicearth  </a>     |
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
