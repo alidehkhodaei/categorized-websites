@@ -124,7 +124,7 @@
 |   18  |        <a href='https://www.frontendmentor.io'> Frontendmentor  </a>     |
 |   19  |        <a href='https://codepen.io'> Codepen  </a>     |
 |   20  |        <a href='https://www.codewell.cc'> Codewell  </a>     |
-
+|   21  |        <a href='https://www.dailycodingproblem.com'> Dailycodingproblem  </a>     |
 
 
 <h4 id="ArticleReadingWebsitesId">Article Reading</h4>
