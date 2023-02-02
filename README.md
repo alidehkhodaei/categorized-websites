@@ -3,7 +3,6 @@
 <ul>
   <li>  <h3> <a href="#EducationalWebsitesId">Educational</a></h3></li>
   <li>  <h3> <a href="#ProgrammingPracticeWebsitesId">Programming Practice</a></h3></li>
-  <li>  <h3> <a href="#ArticleReadingWebsitesId">Article Reading</a></h3></li>
   <li>  <h3> <a href="#JobSearchWebsitesId">Job search</a></h3></li>
   <li>  <h3> <a href="#Ui">Image, icons and ui</a></h3></li>
   <li>  <h3> <a href="#Others">Others</a></h3></li>
@@ -131,14 +130,6 @@
 |   21  |        <a href='https://www.dailycodingproblem.com'> Dailycodingproblem  </a>     |
 
 
-<h4 id="ArticleReadingWebsitesId">Article Reading</h4>
-
-| No          | Link                       |
-|   --------  | -------------------------  |
-|   1  |        <a href='https://medium.com'> Medium  </a>     |
-|   2  |        <a href='https://virgool.io'> Virgool  </a>     |
-
-
 <h4 id="JobSearchWebsitesId">Job Search</h4>
 
 | No          | Link                       |
@@ -191,4 +182,5 @@
 |   7  |        <a href='https://you.com'> You.com</a>     |
 |   8  |        <a href='https://www.useblackbox.io/search'> Blackbox</a>     |
 |   9  |        <a href='https://onecompiler.com'> Onecompiler</a>     |
-
+|   10  |        <a href='https://medium.com'> Medium  </a>     |
+|   11  |        <a href='https://virgool.io'> Virgool  </a>     |
