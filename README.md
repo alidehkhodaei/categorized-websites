@@ -105,8 +105,6 @@
 |   90  |        <a href='https://www3.ntu.edu.sg/home/ehchua/programming/index.html'> Programming notes  </a>     |
 
 
-https://code-smells.com
-
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
 | No          | Link                       |
