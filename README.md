@@ -102,7 +102,10 @@
 |   87  |        <a href='https://overapi.com'> Overapi  </a>     |
 |   88  |        <a href='https://www.knowledgehut.com/tutorials'> Knowledgehut  </a>     |
 |   89  |        <a href='https://www.oodesign.com'> Oodesign  </a>     |
+|   90  |        <a href='https://www3.ntu.edu.sg/home/ehchua/programming/index.html'> Programming notes  </a>     |
 
+
+https://code-smells.com
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
