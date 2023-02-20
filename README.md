@@ -15,8 +15,8 @@ I have curated a list of useful websites and categorized them into five differen
 
 <h4 id="EducationalWebsitesId">Educational</h4>
 
-| No          | Link                       |
-|   --------  | -------------------------  |
+| No          | Link                       | Description  |
+|   --------  | -------------------------  |--------------|
 |   1  |        <a href='https://Coursera.org'> Coursera  </a>     |
 |   2  |        <a href='https://Udemy.com'> Udemy  </a>     |
 |   3  |        <a href='https://Udacity.com'> Udacity  </a>     |
@@ -117,30 +117,30 @@ I have curated a list of useful websites and categorized them into five differen
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
-| No          | Link                       |
-|   --------  | -------------------------  |
-|   1  |        <a href='https://edabit.com'> Edabit  </a>     |
-|   2  |        <a href='https://coderbyte.com'> Coderbyte  </a>     |
-|   3  |        <a href='https://leetcode.com'> Leetcode  </a>     |
-|   4  |        <a href='https://codechef.com'> Codechef  </a>     |
-|   5  |        <a href='https://codewars.com'> Codewars  </a>     |
-|   6  |        <a href='https://quera.org'> Quera  </a>     |
-|   7  |        <a href='https://topcoder.com'> Topcoder  </a>     |
-|   8  |        <a href='https://spoj.com'> Spoj  </a>     |
-|   9  |        <a href='https://codeabbey.com'> Codeabbey  </a>     |
-|   10  |        <a href='https://codescracker.com'> Codescracker  </a>     |
-|   11  |        <a href='https://sql-practice.com'> Sql-practice  </a>     |
-|   12  |        <a href='https://beecrowd.com.br'> Beecrowd  </a>     |
-|   13  |        <a href='https://hackerearth.com/practice'> Hackerearth  </a>     |
-|   14  |        <a href='https://algoexpert.io'> Algoexpert  </a>     |
-|   15  |        <a href='https://hackerrank.com'> Hackerrank  </a>     |
-|   16  |        <a href='https://www.interviewbit.com'> Interviewbit  </a>     |
-|   17  |        <a href='https://codility.com'> Codility  </a>     |
-|   18  |        <a href='https://www.frontendmentor.io'> Frontendmentor  </a>     |
-|   19  |        <a href='https://codepen.io'> Codepen  </a>     |
-|   20  |        <a href='https://www.codewell.cc'> Codewell  </a>     |
-|   21  |        <a href='https://www.dailycodingproblem.com'> Dailycodingproblem  </a>     |
-|   22  |        <a href='https://codingbat.com/java'>  Codingbat </a>     |
+| No          | Link                       | Description  |
+|   --------  | -------------------------  | --------------|
+|   1  |        <a href='https://edabit.com'> Edabit  </a>     |A website that provides coding challenges and exercises in various programming languages, from beginner to advanced level.
+|   2  |        <a href='https://coderbyte.com'> Coderbyte  </a>     | A platform that offers coding challenges, courses, and interview prep resources to help users improve their coding skills and prepare for technical interviews.
+|   3  |        <a href='https://leetcode.com'> Leetcode  </a>     | A popular website for practicing coding skills and preparing for technical interviews. It offers a large collection of coding problems, frequently used in coding interviews, along with solutions and discussions.
+|   4  |        <a href='https://codechef.com'> Codechef  </a>     | An online platform for competitive programming, offering a variety of coding challenges and contests for users to participate in and improve their skills.
+|   5  |        <a href='https://codewars.com'> Codewars  </a>     | A platform that provides coding challenges in various programming languages, with a focus on helping users improve their problem-solving skills and algorithms.
+|   6  |        <a href='https://quera.org'> Quera  </a>     | A platform for learning and practicing programming skills, with a focus on the Persian language.
+|   7  |        <a href='https://topcoder.com'> Topcoder  </a>     | A website for competitive programming, offering challenges and contests in various programming languages, as well as design and development challenges.
+|   8  |        <a href='https://spoj.com'> Spoj  </a>     | Sphere Online Judge is a platform for competitive programming, with a large collection of coding problems and challenges for users to improve their skills.
+|   9  |        <a href='https://codeabbey.com'> Codeabbey  </a>     | A platform that provides a large collection of coding challenges, suitable for beginner to advanced level programmers, with solutions and discussions.
+|   10  |        <a href='https://codescracker.com'> Codescracker  </a>     | A website that provides tutorials and exercises on various programming topics, including programming languages, algorithms, and data structures.
+|   11  |        <a href='https://sql-practice.com'> Sql-practice  </a>     | A website that provides exercises and challenges for learning and practicing SQL (Structured Query Language), used for managing and querying databases.
+|   12  |        <a href='https://beecrowd.com.br'> Beecrowd  </a>     | A Brazilian platform for competitive programming, offering challenges and contests in various programming languages, with a focus on the Portuguese language.
+|   13  |        <a href='https://hackerearth.com/practice'> Hackerearth  </a>     | A platform for learning and practicing programming skills, offering coding challenges, courses, and hackathons.
+|   14  |        <a href='https://algoexpert.io'> Algoexpert  </a>     | A platform that provides coding challenges and tutorials on algorithms and data structures, with a focus on helping users improve their problem-solving skills.
+|   15  |        <a href='https://hackerrank.com'> Hackerrank  </a>     | A popular website for practicing coding skills and preparing for technical interviews, offering a large collection of coding problems, frequently used in coding interviews, along with solutions and discussions.
+|   16  |        <a href='https://www.interviewbit.com'> Interviewbit  </a>     |  A platform that provides coding challenges and courses to help users prepare for technical interviews.
+|   17  |        <a href='https://codility.com'> Codility  </a>     | A platform that provides coding challenges and assessments, with a focus on helping users improve their problem-solving and technical skills for the job market.
+|   18  |        <a href='https://www.frontendmentor.io'> Frontendmentor  </a>     | A website that provides design challenges for front-end developers, with a focus on improving their HTML, CSS, and JavaScript skills.
+|   19  |        <a href='https://codepen.io'> Codepen  </a>     | A platform for front-end developers to showcase their work and experiment with HTML, CSS, and JavaScript.
+|   20  |        <a href='https://www.codewell.cc'> Codewell  </a>     | A platform that provides front-end development challenges and tutorials, with a focus on helping users improve their HTML, CSS, and JavaScript skills.
+|   21  |        <a href='https://www.dailycodingproblem.com'> Dailycodingproblem  </a>     | A website that provides daily coding challenges to help users improve their problem-solving skills and technical knowledge.
+|   22  |        <a href='https://codingbat.com/java'>  Codingbat </a>     | A platform that provides coding exercises and challenges in Java and Python, with a focus on helping beginners improve their programming skills.
 
 
 <h4 id="JobSearchWebsitesId">Job Search</h4>
