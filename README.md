@@ -161,24 +161,24 @@ I have curated a list of useful websites and categorized them into five differen
 
 <h4 id="Ui">Image, icons and ui</h4>
 
-| No          | Link                       |
-|   --------  | -------------------------  |
-|   1  |        <a href='https://dribbble.com'> Dribbble  </a>     |
-|   2  |        <a href='https://pexels.com'> Pexels  </a>     |
-|   3  |        <a href='https://www.behance.net'> Behance  </a>     |
-|   4  |        <a href='https://icons8.com'> Icon8  </a>     |
-|   5  |        <a href='https://www.freepik.com'> Freepic  </a>     |
-|   6  |        <a href='https://undraw.co/illustrations'> Undraw  </a>     |
-|   7  |        <a href='https://unsplash.com'> Unsplash  </a>     |
-|   8  |        <a href='https://www.designspiration.com'> Designspiration  </a>     |
-|   9  |        <a href='https://screenlane.com'> Screenlane  </a>     |
-|   10  |       <a href='https://uigarage.net'> Uigarage  </a>     |
-|   11  |       <a href='https://onepagelove.com'> Onepagelove  </a>     |
-|   12  |       <a href='https://siteinspire.com'> Siteinspire  </a>     |
-|   13  |       <a href='https://www.awwwards.com'> Awwwards  </a>     |
-|   14  |       <a href='https://craftwork.design'> Craftwork.design  </a>     |
-|   15  |       <a href='https://thenounproject.com'> Thenounproject  </a>     |
-|   16  |       <a href='https://gradihunt.com'> Gradihunt  </a>     |
+| No          | Link                       | Description  |
+|   --------  | -------------------------  |-----------------|
+|   1  |        <a href='https://dribbble.com'> Dribbble  </a>     | Dribbble is an online community for showcasing and discovering creative work, including graphic design, web design, illustration, and more. It allows designers and other creatives to share their work and receive feedback from other members. 
+|   2  |        <a href='https://pexels.com'> Pexels  </a>     |A website offering free stock photos and videos.
+|   3  |        <a href='https://www.behance.net'> Behance  </a>     |A platform for creatives to showcase their work, connect with others, and find job opportunities.
+|   4  |        <a href='https://icons8.com'> Icon8  </a>     | A website offering free icons, illustrations, and photos.
+|   5  |        <a href='https://www.freepik.com'> Freepic  </a>     | A website offering free graphic resources, including vectors, photos, and icons.
+|   6  |        <a href='https://undraw.co/illustrations'> Undraw  </a>     | A collection of open-source illustrations for websites and apps.
+|   7  |        <a href='https://unsplash.com'> Unsplash  </a>     | A website offering free high-resolution photos.
+|   8  |        <a href='https://www.designspiration.com'> Designspiration  </a>     | A website for creatives to find and share design inspiration.
+|   9  |        <a href='https://screenlane.com'> Screenlane  </a>     | A website offering free and customizable device mockups.
+|   10  |       <a href='https://uigarage.net'> Uigarage  </a>     | A website showcasing user interfaces and providing design inspiration.
+|   11  |       <a href='https://onepagelove.com'> Onepagelove  </a>     | A collection of one-page website designs for inspiration.
+|   12  |       <a href='https://siteinspire.com'> Siteinspire  </a>     | A gallery of the best web design for inspiration.
+|   13  |       <a href='https://www.awwwards.com'> Awwwards  </a>     | A website recognizing and promoting the best web design.
+|   14  |       <a href='https://craftwork.design'> Craftwork.design  </a>     | A website offering premium design resources, including illustrations, icons, and UI kits.
+|   15  |       <a href='https://thenounproject.com'> Thenounproject  </a>     | A website offering a library of icons that are free to use with attribution.
+|   16  |       <a href='https://gradihunt.com'> Gradihunt  </a>     | A curated gallery of beautiful gradients for design inspiration.
 
 
 
