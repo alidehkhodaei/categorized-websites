@@ -145,19 +145,19 @@ I have curated a list of useful websites and categorized them into five differen
 
 <h4 id="JobSearchWebsitesId">Job Search</h4>
 
-| No          | Link                       |
-|   --------  | -------------------------  |
-|   1  |        <a href='https://irantalent.com'> Irantalent  </a>     |
-|   2  |        <a href='https://e-estekhdam.com'> E-estekhdam  </a>     |
-|   3  |        <a href='https://iranestekhdam.ir'> Iranestekhdam  </a>     |
-|   4  |        <a href='https://jobinja.ir'> Jobinja  </a>     |
-|   5  |        <a href='https://karboom.io'> Karboom  </a>     |
-|   6  |        <a href='https://jobvision.ir'> Jobvision  </a>     |
-|   7  |        <a href='https://hamikar.com'> Hamikar  </a>     |
-|   8  |        <a href='https://karbank.ir'> Karbank  </a>     |
-|   9  |        <a href='https://estekhdam.in'> Estekhdam  </a>     |
-|   10  |        <a href='https://karlib.com'> Karlib  </a>     |
-|   11  |        <a href='https://ponisha.ir'> Ponisha  </a>     |
+| No          | Link                       | Description  |
+|   --------  | -------------------------  |----------------|
+|   1  |        <a href='https://irantalent.com'> Irantalent  </a>     | A job search website that connects job seekers with companies in Iran. It offers various job opportunities for different professions and industries.
+|   2  |        <a href='https://e-estekhdam.com'> E-estekhdam  </a>     | A job portal for Iranian job seekers and employers, offering a wide range of job opportunities in different fields.
+|   3  |        <a href='https://iranestekhdam.ir'> Iranestekhdam  </a>     | An Iranian job search website that provides job listings for various industries, including IT, engineering, and finance.
+|   4  |        <a href='https://jobinja.ir'> Jobinja  </a>     | A job search website that connects Iranian job seekers with potential employers. It offers job opportunities in various industries, including technology, marketing, and education.
+|   5  |        <a href='https://karboom.io'> Karboom  </a>     |A job portal that provides job opportunities in different fields, including software engineering, marketing, design, and more. It also offers career advice and tips for job seekers.
+|   6  |        <a href='https://jobvision.ir'> Jobvision  </a>     | A job search website that offers job opportunities in various fields, including healthcare, engineering, education, and more. It allows job seekers to create a professional profile and connect with potential employers.
+|   7  |        <a href='https://hamikar.com'> Hamikar  </a>     | A job portal that provides job opportunities for Iranian job seekers in various industries, including healthcare, hospitality, and more. It also offers career advice and guidance for job seekers.
+|   8  |        <a href='https://karbank.ir'> Karbank  </a>     | A job search website that connects job seekers with potential employers in different industries, including IT, finance, and marketing. It also offers career advice and tips for job seekers.
+|   9  |        <a href='https://estekhdam.in'> Estekhdam  </a>     | An Iranian job portal that provides job opportunities for job seekers in different fields, including engineering, healthcare, and IT.
+|   10  |        <a href='https://karlib.com'> Karlib  </a>     | A job search website that offers job opportunities for Iranian job seekers in various industries, including software engineering, finance, and marketing.
+|   11  |        <a href='https://ponisha.ir'> Ponisha  </a>     | An Iranian freelance job website that provides job opportunities for freelancers in various fields, including design, programming, writing, and more.
 
 <h4 id="Ui">Image, icons and ui</h4>
 
