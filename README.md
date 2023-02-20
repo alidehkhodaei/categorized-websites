@@ -184,17 +184,17 @@ I have curated a list of useful websites and categorized them into five differen
 
 <h4 id="Others">Others</h4>
 
-| No          | Link                       |
-|   --------  | -------------------------  |
-|   1  |        <a href='https://tuthub.io'> Tuthub  </a>     |
-|   2  |        <a href='https://roadmap.sh'> Roadmap  </a>     |
-|   3  |        <a href='https://flowcv.com'> Create Resume or cv </a>   |
-|   4  |        <a href='https://web.archive.org'> Web  archive</a>     |
-|   5  |        <a href='https://resumeworded.com/linkedin-review'> LinkedIn profile review</a>     |
-|   6  |        <a href='https://dev.to'> Dev.to</a>     |
-|   7  |        <a href='https://you.com'> You.com</a>     |
-|   8  |        <a href='https://www.useblackbox.io/search'> Blackbox</a>     |
-|   9  |        <a href='https://onecompiler.com'> Onecompiler</a>     |
-|   10  |        <a href='https://medium.com'> Medium  </a>     |
-|   11  |        <a href='https://virgool.io'> Virgool  </a>     |
-|   12  |        <a href='https://www.typingclub.com'> Typingclub  </a>     |
+| No          | Link                       | Description  |
+|   --------  | -------------------------  | -------------------------  |
+|   1  |        <a href='https://tuthub.io'> Tuthub  </a>     | Tuthub is an online learning platform that offers courses in programming, web development, data science, and other tech-related fields.  
+|   2  |        <a href='https://roadmap.sh'> Roadmap  </a>     | Roadmap is a website that provides learning paths and resources for various technology fields, including web development, data science, and cybersecurity.  
+|   3  |        <a href='https://flowcv.com'> Flowcv </a>   | Flowcv is a website that allows users to create and customize professional resumes or CVs.
+|   4  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
+|   5  |        <a href='https://resumeworded.com/linkedin-review'> LinkedIn profile review</a>     | Resume Worded is a website that offers a LinkedIn profile review tool, helping users optimize their profiles to attract potential employers and network connections.
+|   6  |        <a href='https://dev.to'> Dev.to</a>     | Dev.to is a community-driven website for developers to share knowledge, collaborate, and connect with other developers around the world.
+|   7  |        <a href='https://you.com'> You.com</a>     | You.com is a personal knowledge management tool that helps users organize and search their digital information.
+|   8  |        <a href='https://www.useblackbox.io/search'> Blackbox</a>     | Blackbox is a search engine that allows users to search for information on startups, investors, and venture capital firms.
+|   9  |        <a href='https://onecompiler.com'> Onecompiler</a>     | Onecompiler is an online compiler that allows users to write and run code in various programming languages without the need for local development environments.
+|   10  |        <a href='https://medium.com'> Medium  </a>     | Medium is an online publishing platform where writers can share their stories and ideas on a wide range of topics, including technology, science, politics, and more.
+|   11  |        <a href='https://virgool.io'> Virgool  </a>     | Virgool is a Persian language blogging platform, providing a space for Persian-speaking writers and readers to share their ideas and stories.
+|   12  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
