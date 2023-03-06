@@ -113,7 +113,7 @@ I have curated a list of useful websites and categorized them into five differen
 |   94  |        <a href='https://www.java-examples.com'> Java examples  </a>     | Java Examples is a website that provides a collection of Java code examples for a variety of programming tasks, from simple programs to more complex projects. The website also offers tutorials and articles to help developers learn new Java concepts.
 |   95  |        <a href='https://skillcombo.com'> Skillcombo </a>     | Skillcombo is a website that provides a platform for developers to showcase their coding skills and connect with potential employers. The site features a range of coding challenges and assessments, as well as a community forum where developers can share their knowledge and connect with others in the industry.
 |   96  |        <a href='https://www.syncfusion.com'> Syncfusion </a>     | Syncfusion is a software development company that provides a range of tools and libraries for developers, including UI controls, reporting and dashboard tools, and file-format libraries. The website also offers tutorials and resources to help developers get started with these tools, as well as a community forum where developers can connect with others and get support.
-
+|   97  |        <a href='https://ihateregex.io'> Ihateregex </a>     | A regex cheatsheet for the haters.
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
