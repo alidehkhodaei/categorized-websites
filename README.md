@@ -201,3 +201,6 @@ I have curated a list of useful websites and categorized them into five differen
 |   10  |        <a href='https://medium.com'> Medium  </a>     | Medium is an online publishing platform where writers can share their stories and ideas on a wide range of topics, including technology, science, politics, and more.
 |   11  |        <a href='https://virgool.io'> Virgool  </a>     | Virgool is a Persian language blogging platform, providing a space for Persian-speaking writers and readers to share their ideas and stories.
 |   12  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
+|   13  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
+
+
