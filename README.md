@@ -114,6 +114,9 @@ I have curated a list of useful websites and categorized them into five differen
 |   95  |        <a href='https://skillcombo.com'> Skillcombo </a>     | Skillcombo is a website that provides a platform for developers to showcase their coding skills and connect with potential employers. The site features a range of coding challenges and assessments, as well as a community forum where developers can share their knowledge and connect with others in the industry.
 |   96  |        <a href='https://www.syncfusion.com'> Syncfusion </a>     | Syncfusion is a software development company that provides a range of tools and libraries for developers, including UI controls, reporting and dashboard tools, and file-format libraries. The website also offers tutorials and resources to help developers get started with these tools, as well as a community forum where developers can connect with others and get support.
 |   97  |        <a href='https://ihateregex.io'> Ihateregex </a>     | A regex cheatsheet for the haters.
+|   98  |        <a href='https://www.totaltypescript.com'> Totaltypescript </a>     | TotalTypeScript is a website dedicated to helping developers learn and improve their skills in TypeScript, a popular programming language used for building web applications, server-side applications, and more. The website offers a variety of resources, including tutorials, articles, and videos, aimed at developers of all levels, from beginners to advanced.
+|   99  |        <a href='https://sqlbolt.com'> Sqlbolt </a>     | SQLBolt is a website dedicated to teaching SQL, the popular database management language used for querying and manipulating data in relational databases.
+
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
