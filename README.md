@@ -5,7 +5,7 @@ I have curated a list of useful websites and categorized them into five differen
 ![A image](https://github.com/alidehkhodaei/categorized-websites/raw/main/image.png)
 
 <ul>
-  <li>  <h3> <a href="#EducationalWebsitesId">Educational</a></h3>These websites offer online courses and educational resources in various subjects to help you expand your knowledge and skills.</li>
+  <li>  <h3> <a href="#Olp">Online learning platforms</a></h3>These websites offer online courses and educational resources in various subjects to help you expand your knowledge and skills.</li>
   <li>  <h3> <a href="#ProgrammingPracticeWebsitesId">Programming Practice</a></h3> These websites offer coding exercises, challenges, and tutorials to help improve your programming skills and prepare you for technical interviews.</li>
   <li>  <h3> <a href="#JobSearchWebsitesId">Job search</a></h3>These websites are useful for finding job opportunities in various industries and locations.</li>
   <li>  <h3> <a href="#Ui">Image, icons and ui</a></h3>These websites offer images, icons, and UI elements.</li>
@@ -15,7 +15,7 @@ I have curated a list of useful websites and categorized them into five differen
 </ul>
 
 
-<h4 id="EducationalWebsitesId">Educational</h4>
+<h4 id="Olp">Online learning platforms</h4>
 
 | No          | Link                       | Description  |
 |   --------  | -------------------------  |--------------|
