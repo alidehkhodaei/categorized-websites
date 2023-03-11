@@ -9,6 +9,7 @@ I have curated a list of useful websites and categorized them into five differen
   <li>  <h3> <a href="#ProgrammingPracticeWebsitesId">Programming Practice</a></h3> These websites offer coding exercises, challenges, and tutorials to help improve your programming skills and prepare you for technical interviews.</li>
   <li>  <h3> <a href="#JobSearchWebsitesId">Job search</a></h3>These websites are useful for finding job opportunities in various industries and locations.</li>
   <li>  <h3> <a href="#Ui">Image, icons and ui</a></h3>These websites offer images, icons, and UI elements.</li>
+  <li>  <h3> <a href="#Al">Al tools</a></h3>In this section, websites related to artificial intelligence have been collected.</li>
   <li>  <h3> <a href="#Others">Others</a></h3>  These websites offer a range of different services.  </li>
 </ul>
 
@@ -186,7 +187,13 @@ I have curated a list of useful websites and categorized them into five differen
 |   15  |       <a href='https://thenounproject.com'> Thenounproject  </a>     | A website offering a library of icons that are free to use with attribution.
 |   16  |       <a href='https://gradihunt.com'> Gradihunt  </a>     | A curated gallery of beautiful gradients for design inspiration.
 
+<h4 id="Al">Al tools</h4>
 
+| No          | Link                       | Description  |
+|   --------  | -------------------------  | -------------------------  |
+|   1  |        <a href='https://www.perplexity.ai'> Perplexity AI   </a>     | Perplexity AI is an answer engine that uses large language models and search engines to deliver accurate answers to complex questions.
+|   2  |        <a href='https://you.com'> You.com</a>     | You.com is a personal knowledge management tool that helps users organize and search their digital information.
+|   3  |        <a href='https://www.useblackbox.io/search'> Blackbox</a>     | Blackbox is a search engine that allows users to search for information on startups, investors, and venture capital firms.
 
 <h4 id="Others">Others</h4>
 
@@ -198,14 +205,12 @@ I have curated a list of useful websites and categorized them into five differen
 |   4  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
 |   5  |        <a href='https://resumeworded.com/linkedin-review'> LinkedIn profile review</a>     | Resume Worded is a website that offers a LinkedIn profile review tool, helping users optimize their profiles to attract potential employers and network connections.
 |   6  |        <a href='https://dev.to'> Dev.to</a>     | Dev.to is a community-driven website for developers to share knowledge, collaborate, and connect with other developers around the world.
-|   7  |        <a href='https://you.com'> You.com</a>     | You.com is a personal knowledge management tool that helps users organize and search their digital information.
-|   8  |        <a href='https://www.useblackbox.io/search'> Blackbox</a>     | Blackbox is a search engine that allows users to search for information on startups, investors, and venture capital firms.
-|   9  |        <a href='https://onecompiler.com'> Onecompiler</a>     | Onecompiler is an online compiler that allows users to write and run code in various programming languages without the need for local development environments.
-|   10  |        <a href='https://medium.com'> Medium  </a>     | Medium is an online publishing platform where writers can share their stories and ideas on a wide range of topics, including technology, science, politics, and more.
-|   11  |        <a href='https://virgool.io'> Virgool  </a>     | Virgool is a Persian language blogging platform, providing a space for Persian-speaking writers and readers to share their ideas and stories.
-|   12  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
-|   13  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
-|   14  |        <a href='https://playcode.io'> Playcode  </a>     | Playcode.io is an online code editor and sandbox that allows users to write, run, and share HTML, CSS, and JavaScript code in real-time. It features a user-friendly interface, with a split-screen view that allows users to see their code and its output side-by-side. Playcode.io supports both Vue.js and React.js, which are popular JavaScript frameworks used for building user interfaces.
-|   15  |        <a href='https://replit.com'> Replit  </a>     | Replit is a web-based development environment that allows users to code, collaborate, and deploy their applications directly from their web browser. It provides a fully-featured code editor with syntax highlighting, auto-completion, and version control, as well as a wide range of programming languages and frameworks to choose from.
+|   7  |        <a href='https://onecompiler.com'> Onecompiler</a>     | Onecompiler is an online compiler that allows users to write and run code in various programming languages without the need for local development environments.
+|   8  |        <a href='https://medium.com'> Medium  </a>     | Medium is an online publishing platform where writers can share their stories and ideas on a wide range of topics, including technology, science, politics, and more.
+|   9  |        <a href='https://virgool.io'> Virgool  </a>     | Virgool is a Persian language blogging platform, providing a space for Persian-speaking writers and readers to share their ideas and stories.
+|   10  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
+|   11  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
+|   12  |        <a href='https://playcode.io'> Playcode  </a>     | Playcode.io is an online code editor and sandbox that allows users to write, run, and share HTML, CSS, and JavaScript code in real-time. It features a user-friendly interface, with a split-screen view that allows users to see their code and its output side-by-side. Playcode.io supports both Vue.js and React.js, which are popular JavaScript frameworks used for building user interfaces.
+|   13  |        <a href='https://replit.com'> Replit  </a>     | Replit is a web-based development environment that allows users to code, collaborate, and deploy their applications directly from their web browser. It provides a fully-featured code editor with syntax highlighting, auto-completion, and version control, as well as a wide range of programming languages and frameworks to choose from.
 
 
