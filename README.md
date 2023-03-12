@@ -12,6 +12,7 @@ I have curated a list of useful websites and categorized them into five differen
   <li>  <h3> <a href="#Al">Al tools</a></h3>In this section, websites related to artificial intelligence have been collected.</li>
   <li>  <h3> <a href="#Cpw">Code Playground Websites</a></h3>Code playground websites are online platforms that allow developers to write, test, and debug their code in real-time. They provide a code editor, console, and a variety of tools and libraries for experimenting with programming languages and frameworks.</li>
   <li>  <h3> <a href="#Rw">Resume Writing</a></h3>Resume writing is a specialized category of service that is focused on helping individuals create or improve their resumes.</li>
+  <li>  <h3> <a href="#Wapc"> Writing and Publishing Communities</a></h3>Writing and publishing communities refer to online platforms that provide a space for writers to create, publish, and share their work with other like-minded individuals.</li>
   <li>  <h3> <a href="#Others">Others</a></h3>  These websites offer a range of different services.  </li>
 </ul>
 
@@ -215,6 +216,15 @@ I have curated a list of useful websites and categorized them into five differen
 |   1  |        <a href='https://flowcv.com'> Flowcv </a>   | Flowcv is a website that allows users to create and customize professional resumes or CVs.
 |   2  |        <a href='https://resumeworded.com'> Resumeworded </a>     | ResumeWorded provides a valuable service for job seekers who are looking to enhance their professional image and increase their chances of securing employment. With its powerful optimization tools and personalized feedback options, ResumeWorded can help individuals create compelling and effective job application materials that make them stand out to potential employers.
 
+<h4 id="Wapc"> Writing and Publishing Communities </h4>
+
+| No          | Link                       | Description  |
+|   --------  | -------------------------  | -------------------------  |
+|   1  |        <a href='https://dev.to'> Dev.to</a>     | Dev.to is a community-driven website for developers to share knowledge, collaborate, and connect with other developers around the world.
+|   2  |        <a href='https://medium.com'> Medium  </a>     | Medium is an online publishing platform where writers can share their stories and ideas on a wide range of topics, including technology, science, politics, and more.
+|   3  |        <a href='https://virgool.io'> Virgool  </a>     | Virgool is a Persian language blogging platform, providing a space for Persian-speaking writers and readers to share their ideas and stories.
+
+
 <h4 id="Others">Others</h4>
 
 | No          | Link                       | Description  |
@@ -222,11 +232,8 @@ I have curated a list of useful websites and categorized them into five differen
 |   1  |        <a href='https://tuthub.io'> Tuthub  </a>     | Tuthub is an online learning platform that offers courses in programming, web development, data science, and other tech-related fields.  
 |   2  |        <a href='https://roadmap.sh'> Roadmap  </a>     | Roadmap is a website that provides learning paths and resources for various technology fields, including web development, data science, and cybersecurity.  
 |   3  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
-|   4  |        <a href='https://dev.to'> Dev.to</a>     | Dev.to is a community-driven website for developers to share knowledge, collaborate, and connect with other developers around the world.
-|   5  |        <a href='https://medium.com'> Medium  </a>     | Medium is an online publishing platform where writers can share their stories and ideas on a wide range of topics, including technology, science, politics, and more.
-|   6  |        <a href='https://virgool.io'> Virgool  </a>     | Virgool is a Persian language blogging platform, providing a space for Persian-speaking writers and readers to share their ideas and stories.
-|   7  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
-|   8  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
+|   4  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
+|   5  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
 
 
 
