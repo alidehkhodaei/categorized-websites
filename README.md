@@ -120,7 +120,7 @@ I have curated a list of useful websites and categorized them into five differen
 |   97  |        <a href='https://ihateregex.io'> Ihateregex </a>     | A regex cheatsheet for the haters.
 |   98  |        <a href='https://www.totaltypescript.com'> Totaltypescript </a>     | TotalTypeScript is a website dedicated to helping developers learn and improve their skills in TypeScript, a popular programming language used for building web applications, server-side applications, and more. The website offers a variety of resources, including tutorials, articles, and videos, aimed at developers of all levels, from beginners to advanced.
 |   99  |        <a href='https://sqlbolt.com'> Sqlbolt </a>     | SQLBolt is a website dedicated to teaching SQL, the popular database management language used for querying and manipulating data in relational databases.
-
+|   100  |        <a href='https://tuthub.io'> Tuthub  </a>     | Tuthub is an online learning platform that offers courses in programming, web development, data science, and other tech-related fields.  
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
@@ -229,11 +229,10 @@ I have curated a list of useful websites and categorized them into five differen
 
 | No          | Link                       | Description  |
 |   --------  | -------------------------  | -------------------------  |
-|   1  |        <a href='https://tuthub.io'> Tuthub  </a>     | Tuthub is an online learning platform that offers courses in programming, web development, data science, and other tech-related fields.  
-|   2  |        <a href='https://roadmap.sh'> Roadmap  </a>     | Roadmap is a website that provides learning paths and resources for various technology fields, including web development, data science, and cybersecurity.  
-|   3  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
-|   4  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
-|   5  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
+|   1  |        <a href='https://roadmap.sh'> Roadmap  </a>     | Roadmap is a website that provides learning paths and resources for various technology fields, including web development, data science, and cybersecurity.  
+|   2  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
+|   3  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
+|   4  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
 
 
 
