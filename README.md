@@ -215,6 +215,13 @@ I have curated a list of useful websites and categorized them into five differen
 |   --------  | -------------------------  | -------------------------  |
 |   1  |        <a href='https://flowcv.com'> Flowcv </a>   | Flowcv is a website that allows users to create and customize professional resumes or CVs.
 |   2  |        <a href='https://resumeworded.com'> Resumeworded </a>     | ResumeWorded provides a valuable service for job seekers who are looking to enhance their professional image and increase their chances of securing employment. With its powerful optimization tools and personalized feedback options, ResumeWorded can help individuals create compelling and effective job application materials that make them stand out to potential employers.
+|   3  |        <a href='https://zety.com'> Zety </a>     |  Offers an easy-to-use resume builder with a range of customizable templates, as well as other career resources like cover letter builders and job search advice.
+|   4  |        <a href='https://LiveCareer.com'> LiveCareer </a>  |  Provides a resume builder and cover letter builder, as well as career advice and job search tools. Users can also access sample resumes and cover letters.
+|   5  |        <a href='https://Novoresume.com'> Novoresume </a>  | Provides a free and paid resume builder with a range of templates and customization options. Users can also access cover letter builders and career advice.
+|   6  |        <a href='https://Indeed.com/create-resume'> Indeed.com/create-resume </a>  |  Offers a free resume builder with a range of templates and customization options, as well as job search tools and career advice. Users can also access job postings and salary information.
+|   7  |        <a href='https://MyPerfectResume.com'> MyPerfectResume </a>  |  Offers a resume builder with a range of templates and customization options, as well as cover letter builders and job search tools. Users can also access career advice and sample resumes.
+|   8  |        <a href='https://RxResu.me'> RxResu </a>  |  Provides a free resume builder with a range of templates and customization options, as well as cover letter builders and job search tools. Users can also access career advice and interview tips.
+|   9  |        <a href='https://ResumeGenius.com'> ResumeGenius </a>  | Provides a resume builder with a range of templates and customization options, as well as cover letter builders and job search tools. Users can also access interview tips and career advice.
 
 <h4 id="Wapc"> Writing and Publishing Communities </h4>
 
