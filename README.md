@@ -254,7 +254,7 @@ I have curated a list of useful websites and categorized them into five differen
 |   7  |        <a href='https://api.stackexchange.com'> Stack Exchange API  </a>     |  The Stack Exchange API is a web service that provides access to data from the Stack Exchange network of Q&A sites, including Stack Overflow, Super User, and many others.
 |   8  |        <a href='https://docs.github.com/en/rest'> Github Rest API  </a>     |  The GitHub API is a web service that provides access to data from GitHub, a popular platform for hosting and collaborating on code repositories. The API allows developers to interact with GitHub programmatically, making it possible to automate tasks, build custom tools, and integrate GitHub functionality into other applications.
 |   9  |        <a href='https://newsapi.org'> News API  </a>    | Provides breaking news headlines, articles, and sources from around the world. 
-|   10  |       <a href=' https://restcountries.com'> Restcountries  </a>    | Provides information about countries, including capital cities, currencies, and more. 
+|   10  |       <a href='https://restcountries.com'> Restcountries  </a>    | Provides information about countries, including capital cities, currencies, and more. 
 |   11  |       <a href='https://thecatapi.com'> Thecatapi  </a>    | Provides random cat images and facts.
 
 
