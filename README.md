@@ -14,6 +14,7 @@ I have curated a list of useful websites and categorized them into five differen
   <li>  <h3> <a href="#Rw">Resume Writing</a></h3>Resume writing is a specialized category of service that is focused on helping individuals create or improve their resumes.</li>
   <li>  <h3> <a href="#Wapc"> Writing and Publishing Communities</a></h3>Writing and publishing communities refer to online platforms that provide a space for writers to create, publish, and share their work with other like-minded individuals.</li>
   <li>  <h3> <a href="#Pcsc">Programming cheat sheet collections</a></h3>Programming Cheat Sheet Collections are a category of websites that provide collections of cheat sheets for a wide range of programming languages and technologies.</li>
+   <li>  <h3> <a href="#Pa">Programming APIs</a></h3>Programming APIs is a category of websites that provide APIs for various programming needs. Most of these APIs have an educational aspect.</li>
   <li>  <h3> <a href="#Others">Others</a></h3>  These websites offer a range of different services.  </li>
 </ul>
 
@@ -240,6 +241,23 @@ I have curated a list of useful websites and categorized them into five differen
 |   4  |        <a href='https://overapi.com'> Overapi  </a>     | A website that provides a collection of cheatsheets and quick reference guides for various programming languages and frameworks.
 
 
+<h4 id="Pa"> Programming APIs </h4>
+
+| No          | Link                       | Description  |
+|   --------  | -------------------------  | -------------------------  |
+|   1  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
+|   2  |        <a href='https://dummyjson.com'> Dummyjson  </a>     | DummyJSON is a website that provides a simple and efficient way for developers to use dummy JSON data for testing and prototyping purposes.  
+|   3  |        <a href='https://github.com/public-apis/public-apis'> public-apis  </a>     | The Public APIs GitHub repository is a collection of various publicly available APIs for developers to use in their projects. 
+|   4  |        <a href='https://moviesapi.ir'> Moviesapi  </a>     | The MoviesAPI.ir is a free RESTful API that provides movie data.
+|   5  |        <a href='https://jsonplaceholder.typicode.com'> Jsonplaceholder  </a>     | JSONPlaceholder is a free online REST API that provides a fake database and a set of endpoints for developers to use in testing and prototyping their applications.
+|   6  |        <a href='https://openweathermap.org/api'> Openweathermap  </a>     | OpenWeatherMap API is a free weather API that provides real-time and forecasted weather data for locations around the world.
+|   7  |        <a href='https://api.stackexchange.com'> Stack Exchange API  </a>     |  The Stack Exchange API is a web service that provides access to data from the Stack Exchange network of Q&A sites, including Stack Overflow, Super User, and many others.
+|   8  |        <a href='https://docs.github.com/en/rest'> Github Rest API  </a>     |  The GitHub API is a web service that provides access to data from GitHub, a popular platform for hosting and collaborating on code repositories. The API allows developers to interact with GitHub programmatically, making it possible to automate tasks, build custom tools, and integrate GitHub functionality into other applications.
+|   9  |        <a href='https://newsapi.org'> News API  </a>    | Provides breaking news headlines, articles, and sources from around the world. 
+|   10  |       <a href='https://restcountries.com'> Restcountries  </a>    | Provides information about countries, including capital cities, currencies, and more. 
+|   11  |       <a href='https://thecatapi.com'> Thecatapi  </a>    | Provides random cat images and facts.
+
+
 <h4 id="Others">Others</h4>
 
 | No          | Link                       | Description  |
@@ -247,7 +265,7 @@ I have curated a list of useful websites and categorized them into five differen
 |   1  |        <a href='https://roadmap.sh'> Roadmap  </a>     | Roadmap is a website that provides learning paths and resources for various technology fields, including web development, data science, and cybersecurity.  
 |   2  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
 |   3  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
-|   4  |        <a href='https://rapidapi.com'> RapidAPI  </a>     | RapidAPI.com is a popular online marketplace for developers that provides access to a large number of APIs (Application Programming Interfaces). APIs are software interfaces that allow different applications to communicate with each other and exchange data. RapidAPI.com offers a wide range of APIs in various categories, including social media, finance, weather, sports, news, and more.
+
 
 
 
