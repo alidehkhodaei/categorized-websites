@@ -1,9 +1,9 @@
 # Categorized Websites (Specially for programmers)
-
-I have curated a list of useful websites and categorized them into five different categories. Please note that I am not responsible for the content of these websites. If you know of any other useful websites in these categories, please feel free to contribute!
-
 ![A image](https://github.com/alidehkhodaei/categorized-websites/raw/main/image.png)
 
+I have curated a list of useful websites and categorized them into different categories. Please note that I am not responsible for the content of these websites. If you know of any other useful websites in these categories, please feel free to contribute!
+
+## Categories:
 <ul>
   <li>  <h3> <a href="#Olp">Online learning platforms</a></h3>These websites offer online courses and educational resources in various subjects to help you expand your knowledge and skills.</li>
   <li>  <h3> <a href="#ProgrammingPracticeWebsitesId">Programming Practice</a></h3> These websites offer coding exercises, challenges, and tutorials to help improve your programming skills and prepare you for technical interviews.</li>
@@ -265,7 +265,7 @@ I have curated a list of useful websites and categorized them into five differen
 |   1  |        <a href='https://roadmap.sh'> Roadmap  </a>     | Roadmap is a website that provides learning paths and resources for various technology fields, including web development, data science, and cybersecurity.  
 |   2  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
 |   3  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
-
+|    4  |        <a href='https://wakatime.com'> Wakatime  </a>     | WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task.
 
 
 
