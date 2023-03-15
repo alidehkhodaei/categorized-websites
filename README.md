@@ -146,6 +146,7 @@ I have curated a list of useful websites and categorized them into different cat
 |   20  |        <a href='https://www.codewell.cc'> Codewell  </a>     | A platform that provides front-end development challenges and tutorials, with a focus on helping users improve their HTML, CSS, and JavaScript skills.
 |   21  |        <a href='https://www.dailycodingproblem.com'> Dailycodingproblem  </a>     | A website that provides daily coding challenges to help users improve their problem-solving skills and technical knowledge.
 |   22  |        <a href='https://codingbat.com/java'>  Codingbat </a>     | A platform that provides coding exercises and challenges in Java and Python, with a focus on helping beginners improve their programming skills.
+|   23  |        <a href='https://devchallenges.io'>  Devchallenges </a>     | DevChallenges is an online platform that offers a range of coding challenges and projects for developers.
 
 
 <h4 id="JobSearchWebsitesId">Job Search</h4>
