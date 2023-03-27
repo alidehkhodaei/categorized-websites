@@ -205,7 +205,7 @@ I have curated a list of useful websites and categorized them into different cat
 |   3  |        <a href='https://playcode.io'> Playcode  </a>     | Playcode.io is an online code editor and sandbox that allows users to write, run, and share HTML, CSS, and JavaScript code in real-time. It features a user-friendly interface, with a split-screen view that allows users to see their code and its output side-by-side. Playcode.io supports both Vue.js and React.js, which are popular JavaScript frameworks used for building user interfaces.
 |   4  |        <a href='https://github.com/features/codespaces'> Codespaces  </a>     | GitHub Codespaces is a cloud-based development environment that enables developers to instantly spin up a fully featured, customizable development environment within their browser. With Codespaces, you can easily set up and configure your preferred tools, editors, and extensions and work on your code from anywhere, without having to worry about local setup, installation, or configuration.
 |   5  |        <a href='https://gitpod.io'> Gitpod  </a>     | Gitpod is an online integrated development environment (IDE) that allows developers to write, test, and deploy code in a fully functional cloud-based environment.
-
+|   6  |        <a href='https://stackblitz.com'> Stackblitz  </a>     | StackBlitz is an online IDE that allows you to develop and deploy web applications directly from your browser. It supports various frameworks and libraries, including React, Angular, and Vue.
 
 <h4 id="Rw">Resume Writing</h4>
 
