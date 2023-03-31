@@ -257,7 +257,7 @@ I have curated a list of useful websites and categorized them into different cat
 |   9  |        <a href='https://newsapi.org'> News API  </a>    | Provides breaking news headlines, articles, and sources from around the world. 
 |   10  |       <a href='https://restcountries.com'> Restcountries  </a>    | Provides information about countries, including capital cities, currencies, and more. 
 |   11  |       <a href='https://thecatapi.com'> Thecatapi  </a>    | Provides random cat images and facts.
-
+|   12  |       <a href='https://quickchart.io'> Quickchart  </a>    | QuickChart.io offers an API that allows developers to generate charts dynamically using their own data and customize the chart properties. The API provides various endpoints for creating different types of charts, setting the chart properties such as colors, labels, and legends, and even embedding the chart image into their own applications or websites.
 
 <h4 id="Others">Others</h4>
 
