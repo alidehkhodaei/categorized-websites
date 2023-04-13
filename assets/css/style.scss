@@ -23,6 +23,8 @@ body{
 #Olp{
   color: red; /* Change to the desired color */
 }
-.highlight {
-  background-color: yellow; /* Change to the desired color */
+
+.pre-class code {
+  /* CSS properties for the code block */
+background-color: yellow; 
 }
