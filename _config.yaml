@@ -1,13 +1,1 @@
-theme: jekyll-theme-cayman
-# _config.yml
-
-# Define a custom color variable
-colors:
-  primary: "#ff0000"  # Set the primary color to red
-
-# Include the custom color variable in the theme's CSS
-style: |
-  :root {
-    --color-primary: {{ colors.primary }};
-  }
-
+theme: chulapa-jekyll
