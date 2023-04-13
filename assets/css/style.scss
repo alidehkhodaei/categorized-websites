@@ -24,7 +24,12 @@ body{
   color: red; /* Change to the desired color */
 }
 
-.pre-class code {
+code {
+  /* CSS properties for the code block */
+background-color: yellow; 
+}
+
+pre {
   /* CSS properties for the code block */
 background-color: yellow; 
 }
