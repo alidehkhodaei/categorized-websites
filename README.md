@@ -2,9 +2,9 @@
 ![A image](https://github.com/alidehkhodaei/categorized-websites/raw/main/image.png)
 
 I have curated a list of useful websites and categorized them into different categories. Please note that I am not responsible for the content of these websites. If you know of any other useful websites in these categories, please feel free to contribute!
-```java
+<pre>
 System.out.print("Hello")
-```
+</pre>
 ## Categories:
 <ul>
   <li>  <h3> <a href="#Olp">Online learning platforms</a></h3>These websites offer online courses and educational resources in various subjects to help you expand your knowledge and skills.</li>
