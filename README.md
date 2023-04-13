@@ -194,6 +194,8 @@ I have curated a list of useful websites and categorized them into different cat
 |   14  |       <a href='https://craftwork.design'> Craftwork.design  </a>     | A website offering premium design resources, including illustrations, icons, and UI kits.
 |   15  |       <a href='https://thenounproject.com'> Thenounproject  </a>     | A website offering a library of icons that are free to use with attribution.
 |   16  |       <a href='https://gradihunt.com'> Gradihunt  </a>     | A curated gallery of beautiful gradients for design inspiration.
+|   17  |       <a href="https://collectui.com">Collect Ui </a> | Collect UI is a website that showcases a collection of user interface (UI) design inspiration from various sources for designers and developers.
+
 
 <h4 id="Al">Al tools</h4>
 
