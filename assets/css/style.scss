@@ -13,17 +13,17 @@ display: none;
 
 
 @media (max-width: 767px) {
-table tbody tr tdd:nth-child(1n)  {
+table tbody tr td:nth-child(1n)  {
   color: brown;
   font-size: 13px;
   width: 10%;
 }
-table tbody tr tdd:nth-child(2n)  {
+table tbody tr td:nth-child(2n)  {
   color: brown;
   font-size: 13px;
   width: 10%;
 }
-  table tbody tr tdd:nth-child(3n)  {
+  table tbody tr td:nth-child(3n)  {
   color: brown;
   font-size: 13px;
   width: 100%;
