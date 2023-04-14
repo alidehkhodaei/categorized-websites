@@ -92,7 +92,7 @@ I have curated a list of useful websites and categorized them into different cat
 |   66  |        <a href='https://learn.saylor.org'> Saylor  </a>     | An online platform that offers free college-level courses in various subjects, including computer science and web development.
 |   67  |        <a href='https://netacad.com'> Netacad  </a>     | A website that offers online courses and certifications in various technology and business subjects, including programming, cybersecurity, and project management.
 |   68  |        <a href='https://web.dev'>Web.dev </a>     | A website that offers resources and tools for web developers, including tutorials, best practices, and performance optimization tips.
-|   69  |        <a href='https://learn.shayhowe.com'>learn shayhowe (Learn to Code HTML & CSS)</a>     | A website that offers a free course on HTML and CSS, covering the basics of web design and development.
+|   69  |        <a href='https://learn.shayhowe.com'>Shayhowe</a>     | A website that offers a free course on HTML and CSS, covering the basics of web design and development.
 |   70  |        <a href='https://www.tutorialrepublic.com'>  Tutorialrepublic  </a>     | A website that offers tutorials and examples for various web development technologies, including HTML, CSS, JavaScript, and more.
 |   71  |        <a href='https://www.learnjavaonline.org'>  Learnjavaonline  </a>     | A website that offers free interactive Java tutorials and exercises for beginners.
 |   72  |        <a href='https://htmldog.com'>  Htmldog </a>     | A website that provides tutorials and resources on HTML, CSS, and web design, with a focus on accessibility and best practices.
