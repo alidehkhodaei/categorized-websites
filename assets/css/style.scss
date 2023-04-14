@@ -15,7 +15,6 @@ table tbody tr td:nth-child(3n) {
   color: brown;
     max-width: 150px; /* Set maximum width for the column */
   overflow: hidden; /* Prevent overflow */
-  text-overflow: ellipsis; /* Add ellipsis (...) for truncated text */
   white-space: nowrap; /* Prevent line wrapping */
 }
 
