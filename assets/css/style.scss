@@ -14,12 +14,7 @@ display: none;
 table tbody tr td:nth-child(3n) {
   color: brown;
     max-width: 150px; /* Set maximum width for the column */
-  overflow: hidden; /* Prevent overflow */
   white-space: nowrap; /* Prevent line wrapping */
 }
 
-table {
-  width: 100%; /* Set table width to 100% */
-  table-layout: fixed; /* Use fixed table layout */
-}
 
