@@ -3,7 +3,6 @@
 @import "{{ site.theme }}";
 a{
   color: #159957;
-  font-weight:bold;
 }
 #my-title{
 display: none;
@@ -36,5 +35,6 @@ li{
 }
 #categories{
  font-size: 14px;
+ font-weight:bold;
 }
 }
