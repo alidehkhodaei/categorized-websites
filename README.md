@@ -22,8 +22,8 @@ I have curated a list of useful websites and categorized them into different cat
 
 <h4 id="Olp">Online learning platforms</h4>
 
-|No|Link| Description                                     |
-|- |-|----------------------------------------------------|
+|No|Link| Description                                                                                                                                |
+|- |-|-----------------------------------------------------------------------------------------------------------------------------------------------|
 |   1  |        <a href='https://Coursera.org'> Coursera  </a>     | Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.
 |   2  |        <a href='https://Udemy.com'> Udemy  </a>     | Offers a vast selection of online courses taught by expert instructors on topics such as programming, business, and personal development.
 |   3  |        <a href='https://Udacity.com'> Udacity  </a>     | Offers courses and nanodegrees in the fields of data science, artificial intelligence, programming, and more.
