@@ -2,7 +2,8 @@
 ---
 @import "{{ site.theme }}";
 a{
-  color: #159957; 
+  color: #159957;
+  font-weight:bold;
 }
 #my-title{
 display: none;
