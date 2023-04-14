@@ -22,6 +22,7 @@ max-width: 90rem;
 @media (max-width: 767px) {
 table tbody tr td{
   font-size: 13px;
+  max-width: 100%;
 }
 table thead tr th{
 font-size: 12px;
