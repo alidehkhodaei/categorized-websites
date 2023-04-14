@@ -12,5 +12,14 @@ display: none;
 }
 
 table tbody tr td:nth-child(3n) {
-  color: brown;
+  color: brown; 
+  width: 50%;
+}
+table tbody tr td:nth-child(1n) {
+  color: brown; 
+  width: 20%;
+}
+table tbody tr td:nth-child(2n) {
+  color: brown; 
+  width: 20%;
 }
