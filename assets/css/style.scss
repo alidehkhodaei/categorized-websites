@@ -14,20 +14,20 @@ display: none;
 
 @media (max-width: 767px) {
   
-table tbody tr td:nth-child(3n) {
+table tbody tr td {
   color: brown;
   font-size: 13px;
 }
 ///////////////////////////////////
-  table thead tr th:nth-child(1n) {
-  color: blue;
-  font-size: 13px;
-   width: 10%;
-  }
-  table thead tr th:nth-child(2n) {
-  color: blue;
-  font-size: 13px;
-   width: 10%;
-  }
+table thead tr th:nth-child(1n) {
+color: blue;
+font-size: 13px;
+width: 10%;
+}
+table thead tr th:nth-child(2n) {
+color: blue;
+font-size: 13px;
+width: 10%;
+}
   
 }
