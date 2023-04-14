@@ -10,11 +10,10 @@ display: none;
 footer {
 display: none;
 }
-html{
-margin: 0;
-padding: 0;  
-}
+
+@media (min-width: 64em) {
 .main-content{
 padding: 0; 
 max-width: 70rem;
+}
 }
