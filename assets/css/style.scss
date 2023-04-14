@@ -18,7 +18,9 @@ padding: 0;
 max-width: 90rem;
 }
 }
-
+#categories{
+ font-weight:bold;
+}
 // Change font-size in mobile mode
 @media (max-width: 767px) {
 table tbody tr td{
@@ -35,6 +37,5 @@ li{
 }
 #categories{
  font-size: 14px;
- font-weight:bold;
 }
 }
