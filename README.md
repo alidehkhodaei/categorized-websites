@@ -294,7 +294,7 @@ I have curated a list of useful websites and categorized them into different cat
   </tr>
   <tr>
     <td>Row 1</td>
-    <td class="half-column" colspan="1">Row 1 - Half Column 2</td>
+    <td>Row 1 - Half Column 2</td>
     <td>Row 1</td>
   </tr>
   <tr>
