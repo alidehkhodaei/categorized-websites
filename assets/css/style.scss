@@ -13,14 +13,5 @@ display: none;
 
 table tbody tr td:nth-child(3n) {
   color: brown; 
-  width: 60%;
   font-size: 10px; /* adjust the font size as desired */
-}
-table tbody tr td:nth-child(1n) {
-  color: yellow; 
-  width: 20%;
-}
-table tbody tr td:nth-child(2n) {
-  color: red; 
-  width: 20%;
 }
