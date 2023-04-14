@@ -11,18 +11,7 @@ footer {
 display: none;
 }
 
-
-tr > :nth-child(3):first-child {
-  /* Set styles for the third td element in the second column */
-  /* Replace the following styles with your desired styles */
-  color: red;
-  font-size: 14px;
-  font-weight: bold;
-  grid-column: span 2; /* or use colspan: 2; for older table layout */
-}
-
 table tbody tr > :nth-child(2):first-child + td + td {
-  /* Set styles for the third td element in the second column */
-  /* Replace the following styles with your desired styles */
   color: red;
+  grid-column: span 2; 
 }
