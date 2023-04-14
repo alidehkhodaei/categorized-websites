@@ -18,3 +18,13 @@ padding: 0;
 max-width: 90rem;
 }
 }
+
+
+@media (max-width: 767px) {
+table tbody tr td{
+  font-size: 12px;
+}
+table thead tr th{
+font-size: 12px;
+}
+}
