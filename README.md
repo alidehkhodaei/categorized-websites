@@ -280,30 +280,3 @@ I have curated a list of useful websites and categorized them into different cat
 |   2  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
 |   3  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
 |    4  |        <a href='https://wakatime.com'> Wakatime  </a>     | WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task.
-
-
-
-
-
-
-<table>
-  <tr>
-    <td>Column 1</td>
-    <td colspan="2">Column 2</td>
-    <td>Column 3</td>
-  </tr>
-  <tr>
-    <td>Row 1</td>
-    <td>Row 1 - Half Column 2</td>
-    <td>Row 1</td>
-  </tr>
-  <tr>
-    <td>Row 2</td>
-    <td>Row 2</td>
-    <td colspan="1"> WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task. WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task.</td>
-  </tr>
-</table>
-
-
-
-
