@@ -303,18 +303,18 @@ I have curated a list of useful websites and categorized them into different cat
 <table>
   <tr>
     <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
+    <td>Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.</td>
+    <td>Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.</td>
   </tr>
   <tr>
     <td>Row 1</td>
-    <td>Row 1 - Half Column 2</td>
-    <td>Row 1</td>
+    <td>Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.</td>
+    <td>Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.</td>
   </tr>
   <tr>
     <td>Row 2</td>
-    <td>Row 2</td>
-    <td>Row 2 - Half Column 2</td>
+    <td>Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.</td>
+    <td>Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.</td>
   </tr>
 </table>
 
