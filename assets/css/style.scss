@@ -11,15 +11,46 @@ footer {
 display: none;
 }
 
+---
+---
+@import "{{ site.theme }}";
+a{
+  color: #159957; 
+}
+#my-title{
+display: none;
+}
+footer {
+display: none;
+}
+
+
 @media (max-width: 767px) {
+  
 table tbody tr td:nth-child(3n) {
   color: brown;
   font-size: 10px;
 }
+  
+table tbody tr td:nth-child(2n) {
+  color: red;
+  font-size: 10px;
+}
+ 
+table tbody tr td:nth-child(1n) {
+  color: orange;
+  font-size: 10px;
+}
 ///////////////////////////////////
-  table thead tr th:nth-child(3n) {
+  table thead tr th:nth-child(1n) {
   color: blue;
   font-size: 10px;
    width: 10%;
   }
+  table thead tr th:nth-child(2n) {
+  color: blue;
+  font-size: 10px;
+   width: 10%;
+  }
+  
 }
