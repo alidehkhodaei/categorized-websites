@@ -11,7 +11,9 @@ footer {
 display: none;
 }
 
-table tbody tr > :nth-child(2):first-child + td + td {
+table tbody tr td:nth-child(3n) {
+  /* Set styles for every third td element */
+  /* Replace the following styles with your desired styles */
   color: red;
-  grid-column: span 2; 
+    grid-column: span 2;
 }
