@@ -12,8 +12,7 @@ display: none;
 }
 
 table tbody tr td:nth-child(3n) {
-  /* Set styles for every third td element */
-  /* Replace the following styles with your desired styles */
   color: brown;
   grid-column: span 2;
+  width: 100%;
 }
