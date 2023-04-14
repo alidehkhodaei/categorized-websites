@@ -1,1 +1,12 @@
-
+---
+---
+@import "{{ site.theme }}";
+a{
+  color: #159957; 
+}
+#my-title{
+display: none;
+}
+footer {
+display: none;
+}
