@@ -11,22 +11,6 @@ footer {
 display: none;
 }
 
-table {
-  width: 100%;
-  table-layout: fixed;
-}
-
-th,
-td {
-  padding: 8px;
-  text-align: left;
-}
-
-/* Set maximum width for third column */
-td:nth-child(3),
-th:nth-child(3) {
-  max-width: 200px; /* Change this value to set the desired maximum width */
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+table tbody tr td:nth-child(3n) {
+  color: brown;
 }
