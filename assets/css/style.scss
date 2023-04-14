@@ -13,5 +13,25 @@ display: none;
 
 
 @media (max-width: 767px) {
+  
+table tbody tr td:nth-child(3n) {
+  color: brown;
   font-size: 10px;
+}
+  
+table tbody tr td:nth-child(2n) {
+  color: red;
+  font-size: 10px;
+}
+ 
+table tbody tr td:nth-child(1n) {
+  color: orange;
+  font-size: 10px;
+}
+
+  table tbody tr th {
+  color: blue;
+  font-size: 10px;
+}
+  
 }
