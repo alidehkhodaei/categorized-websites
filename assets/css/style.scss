@@ -13,19 +13,23 @@ display: none;
 
 
 @media (max-width: 767px) {
-  
-table tbody tr td {
+table tbody tr tdd:nth-child(1n)  {
   color: brown;
   font-size: 13px;
+  width: 10%;
+}
+table tbody tr tdd:nth-child(2n)  {
+  color: brown;
+  font-size: 13px;
+  width: 10%;
+}
+  table tbody tr tdd:nth-child(3n)  {
+  color: brown;
+  font-size: 13px;
+  width: 100%;
 }
 ///////////////////////////////////
-table thead tr th:nth-child(1n) {
-color: blue;
-font-size: 13px;
-width: 10%;
-}
-table thead tr th:nth-child(2n) {
-color: blue;
+table thead tr th {
 font-size: 13px;
 width: 10%;
 }
