@@ -1,4 +1,5 @@
-# Categorized Websites (Specially for programmers)
+<h1 id="my-title"> Categorized Websites (Specially for programmers) </h1>
+
 ![A image](https://github.com/alidehkhodaei/categorized-websites/raw/main/image.png)
 
 I have curated a list of useful websites and categorized them into different categories. Please note that I am not responsible for the content of these websites. If you know of any other useful websites in these categories, please feel free to contribute!
@@ -21,8 +22,8 @@ I have curated a list of useful websites and categorized them into different cat
 
 <h4 id="Olp">Online learning platforms</h4>
 
-| No          | Link                       | Description  |
-|   --------  | -------------------------  |--------------|
+|No|Link| Description                                                                                                                                |
+|- |-|-----------------------------------------------------------------------------------------------------------------------------------------------|
 |   1  |        <a href='https://Coursera.org'> Coursera  </a>     | Offers online courses, specializations, and degrees from top universities and educational institutions worldwide.
 |   2  |        <a href='https://Udemy.com'> Udemy  </a>     | Offers a vast selection of online courses taught by expert instructors on topics such as programming, business, and personal development.
 |   3  |        <a href='https://Udacity.com'> Udacity  </a>     | Offers courses and nanodegrees in the fields of data science, artificial intelligence, programming, and more.
@@ -91,7 +92,7 @@ I have curated a list of useful websites and categorized them into different cat
 |   66  |        <a href='https://learn.saylor.org'> Saylor  </a>     | An online platform that offers free college-level courses in various subjects, including computer science and web development.
 |   67  |        <a href='https://netacad.com'> Netacad  </a>     | A website that offers online courses and certifications in various technology and business subjects, including programming, cybersecurity, and project management.
 |   68  |        <a href='https://web.dev'>Web.dev </a>     | A website that offers resources and tools for web developers, including tutorials, best practices, and performance optimization tips.
-|   69  |        <a href='https://learn.shayhowe.com'>learn shayhowe (Learn to Code HTML & CSS)</a>     | A website that offers a free course on HTML and CSS, covering the basics of web design and development.
+|   69  |        <a href='https://learn.shayhowe.com'>Shayhowe</a>     | A website that offers a free course on HTML and CSS, covering the basics of web design and development.
 |   70  |        <a href='https://www.tutorialrepublic.com'>  Tutorialrepublic  </a>     | A website that offers tutorials and examples for various web development technologies, including HTML, CSS, JavaScript, and more.
 |   71  |        <a href='https://www.learnjavaonline.org'>  Learnjavaonline  </a>     | A website that offers free interactive Java tutorials and exercises for beginners.
 |   72  |        <a href='https://htmldog.com'>  Htmldog </a>     | A website that provides tutorials and resources on HTML, CSS, and web design, with a focus on accessibility and best practices.
@@ -279,7 +280,3 @@ I have curated a list of useful websites and categorized them into different cat
 |   2  |        <a href='https://web.archive.org'> Web  archive</a>     | The Wayback Machine, hosted by the Internet Archive, is a digital archive of the internet, providing access to over 20 years of web page snapshots.
 |   3  |        <a href='https://www.typingclub.com'> Typingclub  </a>     | Typingclub is an online typing tutor that offers lessons and games to help users improve their typing speed and accuracy.
 |    4  |        <a href='https://wakatime.com'> Wakatime  </a>     | WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task.
-
-
-
-

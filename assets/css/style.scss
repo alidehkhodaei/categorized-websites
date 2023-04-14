@@ -1,0 +1,41 @@
+---
+---
+@import "{{ site.theme }}";
+a{
+  color: #159957;
+}
+#my-title{
+display: none;
+}
+footer {
+visibility:hidden;
+}
+
+// Remove padding
+@media (min-width: 70em) {
+.main-content{
+padding: 0; 
+max-width: 90rem;
+}
+}
+#categories{
+ font-weight:bold;
+}
+// Change font-size in mobile mode
+@media (max-width: 767px) {
+table tbody tr td{
+  font-size: 12px;
+}
+table thead tr th{
+  font-size: 12px;
+}
+p{
+  font-size: 13px;
+}
+li{
+  font-size: 13px;
+}
+#categories{
+ font-size: 14px;
+}
+}
