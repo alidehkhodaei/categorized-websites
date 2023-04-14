@@ -14,8 +14,10 @@ display: none;
 table {
   width: 100%;
   table-layout: fixed;
+    color: #159957; 
 }
 
 td{
-  word-wrap: break-word; /* or use white-space: pre-wrap; for more control */
+  word-wrap: pre-wrap;
+    color: orange; 
 }
