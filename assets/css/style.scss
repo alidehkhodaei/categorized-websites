@@ -7,6 +7,6 @@ a{
 #my-title{
 display: none;
 }
-.site-footer-owner::before {
-  content: "Categorized Websites"; /* Replace "Your Text Here" with the desired text */
+.site-footer-owner a[href="https://github.com/alidehkhodaei/categorized-websites"]::before {
+  content: "Your Text Here"; /* Replace "Your Text Here" with the desired text */
 }
