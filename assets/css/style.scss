@@ -13,5 +13,8 @@ display: none;
 
 table tbody tr td:nth-child(3n) {
   color: brown; 
-  font-size: 10px; /* adjust the font size as desired */
+  font-size: 10px;
+}
+table tbody tr td {
+  font-size: 10px;
 }
