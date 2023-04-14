@@ -13,25 +13,10 @@ display: none;
 
 
 @media (max-width: 767px) {
-table tbody tr td:nth-child(1n)  {
-  color: brown;
+table tbody tr td{
   font-size: 13px;
-  width: 10%;
 }
-table tbody tr td:nth-child(2n)  {
-  color: brown;
-  font-size: 13px;
-  width: 10%;
-}
-  table tbody tr td:nth-child(3n)  {
-  color: brown;
-  font-size: 13px;
-  width: 100%;
-}
-///////////////////////////////////
-table thead tr th {
+table thead tr th{
 font-size: 13px;
-width: 10%;
 }
-  
 }
