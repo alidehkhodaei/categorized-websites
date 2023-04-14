@@ -16,27 +16,27 @@ display: none;
   
 table tbody tr td:nth-child(3n) {
   color: brown;
-  font-size: 12px;
+  font-size: 14px;
 }
   
 table tbody tr td:nth-child(2n) {
   color: red;
-  font-size: 12px;
+  font-size: 14px;
 }
  
 table tbody tr td:nth-child(1n) {
   color: orange;
-  font-size: 12px;
+  font-size: 14px;
 }
 ///////////////////////////////////
   table thead tr th:nth-child(1n) {
   color: blue;
-  font-size: 12px;
+  font-size: 14px;
    width: 10%;
   }
   table thead tr th:nth-child(2n) {
   color: blue;
-  font-size: 12px;
+  font-size: 14px;
    width: 10%;
   }
   
