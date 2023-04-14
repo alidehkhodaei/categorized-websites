@@ -7,6 +7,6 @@ a{
 #my-title{
 display: none;
 }
-.half-column {
-  width: 80%;
+.site-footer-owner::before {
+  content: "Categorized Websites"; /* Replace "Your Text Here" with the desired text */
 }
