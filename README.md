@@ -1,4 +1,4 @@
-# Categorized Websites (Specially for programmers)
+<h1> Categorized Websites (Specially for programmers) </h1>
 ![A image](https://github.com/alidehkhodaei/categorized-websites/raw/main/image.png)
 
 I have curated a list of useful websites and categorized them into different categories. Please note that I am not responsible for the content of these websites. If you know of any other useful websites in these categories, please feel free to contribute!
