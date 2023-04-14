@@ -294,13 +294,13 @@ I have curated a list of useful websites and categorized them into different cat
   </tr>
   <tr>
     <td>Row 1</td>
-    <td class="half-column" colspan="2">Row 1 - Half Column 2</td>
+    <td class="half-column" colspan="1">Row 1 - Half Column 2</td>
     <td>Row 1</td>
   </tr>
   <tr>
     <td>Row 2</td>
     <td>Row 2</td>
-    <td class="half-column" colspan="4"> WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task. WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task.</td>
+    <td class="half-column" colspan="2"> WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task. WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task.</td>
   </tr>
 </table>
 
