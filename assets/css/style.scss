@@ -13,8 +13,7 @@ display: none;
 
 table tbody tr td:nth-child(3n) {
   color: brown;
-  
-  white-space: nowrap; /* Prevent line wrapping */
+word-wrap: break-word;
 }
 
 
