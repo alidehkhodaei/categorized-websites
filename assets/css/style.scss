@@ -13,27 +13,10 @@ display: none;
 
 table tbody tr td:nth-child(3n) {
   color: brown;
+    max-width: 200px; /* Change this value to set the desired maximum width */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 
-table {
-  width: 100%;
-  table-layout: fixed;
-}
-
-table th,
-table td {
-  padding: 8px;
-  text-align: left;
-}
-
-/* Add styles for small screens */
-@media (max-width: 767px) {
-  table {
-    overflow-x: auto; /* Add horizontal scroll for table overflow on mobile */
-  }
-  table th,
-  table td {
-    white-space: normal; /* Allow text wrapping on mobile */
-  }
-}
