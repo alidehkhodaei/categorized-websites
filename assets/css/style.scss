@@ -14,24 +14,30 @@ display: none;
 
 @media (max-width: 767px) {
   
-table tbody tr td:nth-child(3n) {
+table tbody tr td:nth-child(3) {
   color: brown;
   font-size: 10px;
 }
   
-table tbody tr td:nth-child(2n) {
+table tbody tr td:nth-child(2) {
   color: red;
   font-size: 10px;
 }
  
-table tbody tr td:nth-child(1n) {
+table tbody tr td:nth-child(1) {
   color: orange;
   font-size: 10px;
 }
-
-  table tbody tr th {
+///////////////////////////////////
+  table thead tr th:nth-child(1) {
   color: blue;
   font-size: 10px;
-}
+   width: 10%;
+  }
+  table thead tr th:nth-child(2) {
+  color: blue;
+  font-size: 10px;
+   width: 10%;
+  }
   
 }
