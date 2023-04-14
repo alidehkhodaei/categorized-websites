@@ -15,8 +15,10 @@ table tbody tr td:nth-child(3n) {
   color: brown;
 }
 
+
 table {
   width: 100%;
+  table-layout: fixed;
 }
 
 table th,
@@ -27,15 +29,11 @@ table td {
 
 /* Add styles for small screens */
 @media (max-width: 767px) {
-  .table {
-    display: block; /* Change table display to block */
-    overflow-x: auto; /* Add horizontal scroll for table overflow */
-    white-space: nowrap; /* Prevent text wrapping */
+  table {
+    overflow-x: auto; /* Add horizontal scroll for table overflow on mobile */
   }
   table th,
   table td {
-    display: inline-block; /* Display table cells as inline-block */
-    vertical-align: top; /* Align cells vertically to top */
-    white-space: nowrap; /* Prevent text wrapping */
+    white-space: normal; /* Allow text wrapping on mobile */
   }
 }
