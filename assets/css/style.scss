@@ -11,6 +11,7 @@ footer {
 visibility:hidden;
 }
 
+// Remove padding
 @media (min-width: 70em) {
 .main-content{
 padding: 0; 
@@ -18,21 +19,21 @@ max-width: 90rem;
 }
 }
 
-
+// Change font-size in mobile mode
 @media (max-width: 767px) {
 table tbody tr td{
   font-size: 12px;
 }
 table thead tr th{
-font-size: 12px;
+  font-size: 12px;
 }
-  p{
-    font-size: 12px;
-  }
-  li{    font-size: 12px;
-  }
-    #categories{
-      font-size: 12px;
-  }
-  
+p{
+  font-size: 12px;
+}
+li{
+  font-size: 12px;
+}
+#categories{
+ font-size: 12px;
+}
 }
