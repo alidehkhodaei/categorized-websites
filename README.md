@@ -284,3 +284,4 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   4  |        <a href='https://wakatime.com'> Wakatime  </a>     | WakaTime is a productivity tool for programmers that provides insights into how much time they spend on coding activities. It does this by integrating with various code editors and other development tools to track the time users spend on each project, file, and task.
 |   5  |        <a href='https://jekyllthemes.io'> Jekyllthemes  </a>     | A curated collection of stylish and functional themes for Jekyll, a popular static site generator, providing an easy way to create modern websites with minimal setup.
 |   6  |        <a href='https://readme.so'> Readme.so </a> | Quickly add and customize all the sections you need for your project's readme.
+|   7  |        <a href='https://carbon.now.sh'> Carbon </a> | Carbon is the easiest way to create and share beautiful images of your source code.
