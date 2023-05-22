@@ -219,6 +219,8 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   5  |        <a href='https://gitpod.io'> Gitpod  </a>     | Gitpod is an online integrated development environment (IDE) that allows developers to write, test, and deploy code in a fully functional cloud-based environment.
 |   6  |        <a href='https://stackblitz.com'> Stackblitz  </a>     | StackBlitz is an online IDE that allows you to develop and deploy web applications directly from your browser. It supports various frameworks and libraries, including React, Angular, and Vue.
 |   7  |        <a href='https://play.kotlinlang.org'> Kotlin online compiler  </a>     | This website provides a code editor with syntax highlighting and code completion features, allowing users to write Kotlin code directly in their web browser without the need to install any additional software.
+|   8  |        <a href='https://dartpad.dev'> DartPad  </a>     | Official web compiler for dart programming language and flutter framework, this website provides basic classes and you can use it fast and simple.
+|   9  |        <a href='https://zapp.run'> Zapp.run (flutter IDE)  </a>     | A third-party web compiler for flutter and dart with many features like adding pakcages, create multiple .dart files, project file manager, and more!
 
 <h4 id="Rw">Resume Writing</h4>
 
