@@ -153,8 +153,8 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   22  |        <a href='https://codingbat.com/java'>  Codingbat </a>     | A platform that provides coding exercises and challenges in Java and Python, with a focus on helping beginners improve their programming skills.
 |   23  |        <a href='https://devchallenges.io'>  Devchallenges </a>     | DevChallenges is an online platform that offers a range of coding challenges and projects for developers.
 |   24  |        <a href='https://checkio.org'> Checkio</a>     | Checkio.org is an online platform for learning and practicing programming skills through coding challenges and games.
-|   25  |        <a href='https://www.jschallenger.com'
->   JSchallenger </a>     | JSchallenger provides a variety of JavaScript exercises, including coding tasks, coding challenges, lessons, and quizzes.
+|   25  |        <a href='https://www.jschallenger.com'>   JSchallenger </a>     | JSchallenger provides a variety of JavaScript exercises, including coding tasks, coding challenges, lessons, and quizzes.
+
 
 
 
