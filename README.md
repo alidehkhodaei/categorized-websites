@@ -200,7 +200,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   15  |       <a href='https://thenounproject.com'> Thenounproject  </a>     | A website offering a library of icons that are free to use with attribution.
 |   16  |       <a href='https://gradihunt.com'> Gradihunt  </a>     | A curated gallery of beautiful gradients for design inspiration.
 |   17  |       <a href="https://collectui.com">Collect Ui </a> | Collect UI is a website that showcases a collection of user interface (UI) design inspiration from various sources for designers and developers.
-
+|   18  |       <a href="https://tablericons.com"> Tablericons </a> | 1400+ open source free SVG icons. No attribution required - Tabler Icons. Configurable stroke, color and size.
 
 <h4 id="Al">Al tools</h4>
 
