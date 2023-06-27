@@ -291,3 +291,4 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   5  |        <a href='https://jekyllthemes.io'> Jekyllthemes  </a>     | A curated collection of stylish and functional themes for Jekyll, a popular static site generator, providing an easy way to create modern websites with minimal setup.
 |   6  |        <a href='https://readme.so'> Readme.so </a> | Quickly add and customize all the sections you need for your project's readme.
 |   7  |        <a href='https://carbon.now.sh'> Carbon </a> | Carbon is the easiest way to create and share beautiful images of your source code.
+|   8  |        <a href='https://whimsical.com'> Whimsical </a> | Whimsical combines whiteboards and docs in an all-in-one collaboration hub.
