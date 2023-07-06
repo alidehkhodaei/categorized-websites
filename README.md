@@ -123,6 +123,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   97  |        <a href='https://www.interviewcake.com'> Interviewcake  </a>     | InterviewCake.com is an online platform that provides coding interview preparation materials.
 | 98    |   <a href='https://www.Hyperskill.org'> Hyperskill  </a>     | Get theory, practice coding and move beyond programming challenges to building your own working projects. Join over 600 000 learners at Hyperskill.
 | 99    |   <a href='https://spring.academy'> Spring academy  </a>     | Unlock your full potential with Spring courses from the Spring team.
+| 100   |   <a href='https://www.techinterviewhandbook.org'> Tech Interview Handbook  </a>     | Free curated interview preparation materials for busy people.
 
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
