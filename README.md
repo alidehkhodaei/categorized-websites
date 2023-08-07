@@ -1,9 +1,12 @@
 <h1 id="my-title"> Categorized Websites (Specially for programmers) </h1>
-
+  
 ![A image](https://github.com/alidehkhodaei/categorized-websites/raw/main/image.png)
 
 I have curated a list of useful websites and categorized them into different categories. Please note that I am not responsible for the content of these websites. If you know of any other useful websites in these categories, please feel free to contribute!
 If you notice any mistakes in the descriptions on websites, please open an issue.
+
+⚠️ The image and most of the websites descriptions in this repository were generated using an AI tool.
+
 ## Categories:
 <ul>
   <li>  <h3> <a href="#Olp">Online learning platforms</a></h3>These websites offer online courses and educational resources in various subjects to help you expand your knowledge and skills.</li>
@@ -202,6 +205,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   16  |       <a href='https://gradihunt.com'> Gradihunt  </a>     | A curated gallery of beautiful gradients for design inspiration.
 |   17  |       <a href="https://collectui.com">Collect Ui </a> | Collect UI is a website that showcases a collection of user interface (UI) design inspiration from various sources for designers and developers.
 |   18  |       <a href="https://tablericons.com"> Tablericons </a> | 1400+ open source free SVG icons. No attribution required - Tabler Icons. Configurable stroke, color and size.
+|   19  |       <a href="https://www.canva.com"> Canva </a> | Canva is a graphic design platform that allows users to create social media graphics, posters, logos, and other visual content through a web-based drag-and-drop interface.
 
 <h4 id="Al">Al tools</h4>
 
