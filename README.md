@@ -256,7 +256,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   1  |        <a href='https://dev.to'> Dev.to</a>     | Dev.to is a community-driven website for developers to share knowledge, collaborate, and connect with other developers around the world.
 |   2  |        <a href='https://medium.com'> Medium  </a>     | Medium is an online publishing platform where writers can share their stories and ideas on a wide range of topics, including technology, science, politics, and more.
 |   3  |        <a href='https://virgool.io'> Virgool  </a>     | Virgool is a Persian language blogging platform, providing a space for Persian-speaking writers and readers to share their ideas and stories.
-
+|   4  |        <a href='https://hashnode.com'> Hashnode  </a>     | Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer community.
 
 
 <h4 id="Pcsc"> Programming cheat sheet collections </h4>
