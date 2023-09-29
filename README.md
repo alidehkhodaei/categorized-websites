@@ -299,6 +299,5 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   7  |        <a href='https://carbon.now.sh'> Carbon </a> | Carbon is the easiest way to create and share beautiful images of your source code.
 |   8  |        <a href='https://whimsical.com'> Whimsical </a> | Whimsical combines whiteboards and docs in an all-in-one collaboration hub.
 |   9  |        <a href='https://dbdiagram.io'> Dbdiagram.io </a> | A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.
-|   10  |        <a href='https://dbdocs.io'> dbdocs.io </a> | A free & simple tool to create web-based database documentation using DSL code. Designed for developers. Integrate seamlessly with your development workflow.
 
 
