@@ -130,6 +130,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 | 101   |   <a href='https://www.baeldung.com'> Baeldung  </a>     | Baeldung is a site dedicated to providing practical, tutorials on Java, Spring, and related technologies for developers.
 | 102   |   <a href='https://jenkov.com'> jenkov.com  </a>     | Jenkov.com Tech and Media Labs - Resources for Developers, IT Architects and Technopreneurs.
 | 103   |   <a href='https://labex.io/linuxjourney'> labex.io/linuxjourney  </a>     |  Learn Linux the Linux-fu way, for free.
+| 104   | <a href='https://csvistool.com'> The CS 1332 Visualization Tool  </a>     |  This tool is designed to help you visualize and understand the data structures and algorithms covered in Georgia Tech's CS 1332 course. It is based on the Data Structures Visualizations website created by David Galles.
 
 <h4 id="ProgrammingPracticeWebsitesId">Programming Practice</h4>
 
