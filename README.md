@@ -248,7 +248,6 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   8  |        <a href='https://RxResu.me'> RxResu </a>  |  Provides a free resume builder with a range of templates and customization options, as well as cover letter builders and job search tools. Users can also access career advice and interview tips.
 |   9  |        <a href='https://ResumeGenius.com'> ResumeGenius </a>  | Provides a resume builder with a range of templates and customization options, as well as cover letter builders and job search tools. Users can also access interview tips and career advice.
 |   10  |        <a href='https://ResumeBuilder.com'> ResumeBuilder </a>  | ResumeBuilder.com is an online platform that helps job seekers create professional and effective resumes.
-|   11  |        <a href='https://cvexpert.com/tools/ats-health-check'> CVExpert ATS Health Check </a>  | A free, no-sign-up tool that checks five visible resume foundations in the browser without uploading or saving pasted text; it does not simulate an employer's ATS or predict shortlisting.
 
 
 
