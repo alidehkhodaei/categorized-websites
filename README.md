@@ -239,6 +239,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 | No          | Link                       | Description  |
 |   --------  | -------------------------  | -------------------------  |
 |   1  |        <a href='https://flowcv.com'> Flowcv </a>   | Flowcv is a website that allows users to create and customize professional resumes or CVs.
+|  1b  |        <a href='https://withresumeai.com/'> ResumeAI </a>   | Free ATS checker + AI resume builder with open State of ATS 2026 dataset (738 employers, 704 portal-verified; Workday 37.9%). Live candidate leaderboard is paid placement only.
 |   2  |        <a href='https://resumeworded.com'> Resumeworded </a>     | ResumeWorded provides a valuable service for job seekers who are looking to enhance their professional image and increase their chances of securing employment. With its powerful optimization tools and personalized feedback options, ResumeWorded can help individuals create compelling and effective job application materials that make them stand out to potential employers.
 |   3  |        <a href='https://zety.com'> Zety </a>     |  Offers an easy-to-use resume builder with a range of customizable templates, as well as other career resources like cover letter builders and job search advice.
 |   4  |        <a href='https://LiveCareer.com'> LiveCareer </a>  |  Provides a resume builder and cover letter builder, as well as career advice and job search tools. Users can also access sample resumes and cover letters.
