@@ -218,6 +218,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   2  |        <a href='https://you.com'> You.com</a>     | You.com is a personal knowledge management tool that helps users organize and search their digital information.
 |   3  |        <a href='https://www.useblackbox.io/search'> Blackbox</a>     | Blackbox is a search engine that allows users to search for information on startups, investors, and venture capital firms.
 |   4  |        <a href='https://codeium.com'> Codeium </a>     | Codeium offers best in class AI code completion & search — all for free. It supports over 40+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
+|   5  |        <a href='https://www.mangatranslate.com/ko/ai-manga-translator/'> AI 만화 번역기 </a>     | AI 만화 번역기는 Ficory LLC가 제공하는 기업급 만화 리더입니다. 개인은 여러 만화 페이지를 일괄 번역하고 작품에 맞게 번역을 맞춤 설정합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기에서 만화 페이지를 편집합니다. 사용자는 API를 개인 작업 흐름에 연결해 번역 과정을 구성합니다. 제품은 서비스가 지원하는 모든 번역 언어를 제공하며, 무료 기능과 유료 기능을 함께 제공하는 Freemium 방식으로 운영됩니다.
 
 
 <h4 id="Cpw">Code Playground Websites</h4>
