@@ -269,6 +269,7 @@ If you notice any mistakes in the descriptions on websites, please open an issue
 |   2  |        <a href='https://devhints.io'> Devhints  </a>     | A collection of cheatsheets and quick reference guides for various programming languages and web development tools.
 |   3  |        <a href='https://quickref.me'> Quickref.me  </a>     |  A collection of cheatsheets and quick reference guides for various programming languages and web development tools.
 |   4  |        <a href='https://overapi.com'> Overapi  </a>     | A website that provides a collection of cheatsheets and quick reference guides for various programming languages and frameworks.
+|   5  |        <a href='https://webcheatsheet.com'> WebCheatSheet </a>     | Free web-development and SQL tutorials with practical syntax examples.
 
 
 <h4 id="Pa"> Programming APIs </h4>
